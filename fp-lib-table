@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name ec_helix)(type KiCad)(uri ${KIPRJMOD}/lib/ec_helix)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/lib/kbd-master/kbd.pretty)(options "")(descr ""))
+  (lib (name phi-kbd-library-master)(type KiCad)(uri ${KIPRJMOD}/lib/phi-kbd-library-master/phi-kbd.pretty)(options "")(descr ""))
+  (lib (name rs)(type KiCad)(uri ${KIPRJMOD}//lib/kicad-footprints-master/Resistor_SMD.pretty)(options "")(descr ""))
+  (lib (name cs)(type KiCad)(uri ${KIPRJMOD}//lib/kicad-footprints-master/Capacitor_SMD.pretty)(options "")(descr ""))
+)
