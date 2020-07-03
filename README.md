@@ -1,4 +1,6 @@
-# ec_helix_niz
+## 静電容量Helixとは？
+Helix Keyboardの基板を差し替え、静電容量スイッチに対応させる為の基板です 
+Varmiloスイッチ用とNizスイッチ用の2種類があり、本リポジトリはNiz版です
 
 ## 外部の使用ライブラリ
 ### シンボルライブラリー
@@ -10,3 +12,147 @@ kbd https://github.com/foostan/kbd
 phi-kbd-library-master https://github.com/zk-phi/phi-kbd-library  
 rd https://github.com/KiCad/kicad-footprints/tree/master/Resistor_SMD.pretty  
 cs　https://github.com/KiCad/kicad-footprints/tree/master/Capacitor_SMD.pretty  
+
+
+# 組み立て方 
+本家Helixとの共通部分については省略しています
+
+## 注意
+本キットは組み立て難易度が高く、使うパーツも特殊です。  
+自作キーボードについて、最低限の知識があることを前提にドキュメントを書いています
+Varmilo対応版と、niz対応版で基板が異なりますが、組み立て方はほぼ同じです。
+通常のメカニカルスイッチでは動作しません
+
+## 部品
+
+下記は1つ作るのに必要な部品の数です。両手分を作るには2セット必要です。  
+
+### 本家と共通の部品
+| 名前 | 数 | 備考 |
+| ---- | ---- | --- |
+| Pro Micro | 1個 | |
+| TRRSジャック | 1個 | |
+| タクトスイッチ | 1個 | |
+| スプリングピンヘッダ 12P | 2個 | コンスルーとも呼ばれています |
+| プレート（アクリル） | 1セット| |
+| 保護プレート | 1枚 | |
+| M2スペーサー 7mm | 6個 |  |
+| M2スペーサー 8mm | 2個 | |
+| M2ネジ 3mm| 14個 | |
+| M2低頭ネジ 5mm| 2個 | |
+| ゴム足 | 6個 |  |
+| キーキャップ | 32個 | キースイッチと互換があるもの |
+| 3.5mmオーディオケーブル | 左右合わせて1本 | 左右のキーボード接続用 |
+| micro USBケーブル | 左右あわせて1本 | 
+| SK6812mini | 32個 | バックライト用（オプション） |
+| OLEDモジュール | 1個 | OLED用（オプション） |
+| ピンソケット 4P | 1個 | OLED用（オプション） |
+| ピンヘッダ 4P | 1個 | OLED用（オプション） |
+
+
+### 本家と異なる部品
+| 名前 | 数 | 備考 | 入手先 |
+| ---- | ---- | --- | ---- |
+| PCB | 1枚 | | |
+| 静電容量キースイッチ | 32個 | 詳しくは後述します | |
+| 1608(0603)チップ抵抗 100K | 7 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57HD |
+| 1608(0603)チップ抵抗 10K | 2 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57GX |
+| 1608(0603)チップ抵抗 1KΩ | 2| | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57GK |
+| 1608(0603)チップ抵抗 200Ω | 6 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57FZ |
+| 1608(0603)チップ抵抗 51KΩ | 1 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57H7 |
+| 1608チップ積層セラミックコンデンサー 50Vdc 220pF | 1 | GRM1882C1H221JA01D*A (10個入り)| https://www.marutsu.co.jp/GoodsDetail.jsp?salesGoodsCode=19297&shopNo=3 |
+|チップトランジスタ　２ＳＣ２７１２－ＧＲ　５０Ｖ１５０ｍ | 1 | | http://akizukidenshi.com/catalog/g/gI-00761/ |
+| 74HC4051DB IC MUX/DEMUX 8X1 16SSOP | 1 | | https://www.marutsu.co.jp/pc/i/24340308/ |
+| ２回路入オペアンプＡＤ８６１６ＡＲＭ | 1 | | http://akizukidenshi.com/catalog/g/gI-04570/ |
+| ジャンパ用の銅線 | 少し | | |
+
+  
+### キースイッチ
+メカニカルスイッチと異なり、複数のパーツが組み合わさって機能します。
+
+| 名前  | 主な入手先 |
+| ----  | ---- |
+| 軸＆ハウジング  | https://www.nizkeyboard.com/collections/ornaments/products/2019-new-niz-ec-switch |
+| ラバードーム  |  https://www.keyclack.com/products/bke-topre-dome-replacements?_pos=2&_sid=6025d869e&_ss=r　もしくは中古のREAL FORCE |
+| コニックリング | 中古のREAL FORCE等 |
+
+
+## 追加で必要な工具
+| 名前 | 数 | 備考 | 入手先 |
+| ---- | ---- | --- | ---- |
+| ヒートクリップ | 1つ | | |
+| 絶縁テープ | 1つ | | |
+| フラックス | 1つ | | |
+
+
+## 組み立て方
+以降は右手用で説明します。左手用はPCBを反転して下さい。
+写真は基本的にVarmilo版ですが、Niz版でもほぼ同じです  
+Niz版は次のように、スイッチ部分のフットプリントが異なるだけです 
+![image](https://user-images.githubusercontent.com/16838187/86467118-ca396500-bd6f-11ea-833a-8518ff53b99a.png)
+__一度全ての工程を読み、理解してから作業を進めることをお勧めします。__
+
+OLED,TRRSジャック等のHelixの共通部分については省略します。
+LEDについてはunderglow、backlight共に未対応です
+
+## 最初に絶縁テープを貼る
+将来的にProMicroが刺さるところに絶縁テープを貼ります  
+![image](https://user-images.githubusercontent.com/16838187/83887616-a8a28900-a783-11ea-9be4-f0edcfd9118e.png)
+
+## 左右をジャンパ
+絶縁テープの上から、写真のようにジャンパしていきます  
+![image](https://user-images.githubusercontent.com/16838187/83893604-1d2cf600-a78b-11ea-9552-fb847786772a.png)
+
+## 絶縁テープ
+ジャンパの上に絶縁テープを貼ります  
+![image](https://user-images.githubusercontent.com/16838187/83893829-73019e00-a78b-11ea-98b6-a781e42b639f.png)
+
+## 裏側に各種パーツを実装する
+基板をひっくり返し、各種パーツを実装します  
+![ポンチ図](https://user-images.githubusercontent.com/16838187/83891190-c2de6600-a787-11ea-8927-8929d10d0dcb.png)
+
+## その他のパーツを実装する
+下記画像のパーツを実装していきます。  
+![ポンチ図2](https://user-images.githubusercontent.com/16838187/83897147-29678200-a790-11ea-98a0-5f82ccec384a.png)  
+![ポンチ図3](https://user-images.githubusercontent.com/16838187/83898727-443af600-a792-11ea-9359-abdeb232eadb.png)  
+
+74HC4051DB　と オペアンプＡＤ８６１６ＡＲＭの向きには注意してください。  
+また、熱に弱いためヒートクリップ等を使うことをおすすめします
+
+## リセットスイッチ
+本家と同じです。
+
+
+## OLEDをつける(オプション)
+本家と同じです(この写真では、家にあった適当なタクトスイッチを代用したので、OLED保護プレートと干渉してます。
+
+
+## TRRSジャックをつける
+両手分つくる場合は必要になります。  
+本家と同じです
+
+
+## ProMicro
+本家と同じです
+
+## ProMicroにqmkを焼く
+下記のファームウェアを焼く必要があります
+https://github.com/ginjake/qmk_firmware/tree/ec_helix_niz
+
+## トッププレート
+まずはトッププレートにスペーサーとネジを取り付けます。  
+スイッチの上側を入れ、中に軸を入れてラバードームでフタをします。  
+スペーサーとラバードームが干渉しないよう、ハサミで切ります。  
+ラバードームの凹みの中にコニックリングを入れます  
+![image](https://user-images.githubusercontent.com/16838187/86467180-e937f700-bd6f-11ea-876f-b43deb603ee7.png)
+
+このとき、コニックリングが重ね合っていないか気を付けましょう。
+複数個が重なっていても意外と気付かず、誤作動の原因になります。  
+
+
+
+
+## サンドイッチ
+トッププレートと基板とボトムプレートをサンドイッチし、ネジで固定します
+実際に打ってみて、問題なさそうなら完成です
+![image](https://user-images.githubusercontent.com/16838187/86467211-f81ea980-bd6f-11ea-885c-c90c43699f8e.png)
