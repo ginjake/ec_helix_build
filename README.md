@@ -123,7 +123,8 @@ LEDについてはunderglow、backlight共に未対応です
 
 
 ## OLEDをつける(オプション)
-本家と同じです(この写真では、家にあった適当なタクトスイッチを代用したので、OLED保護プレートと干渉してます。
+本家と同じです  
+(この写真では、家にあった適当なタクトスイッチを代用したので、OLED保護プレートと干渉してます。
 
 
 ## TRRSジャックをつける
@@ -135,8 +136,9 @@ LEDについてはunderglow、backlight共に未対応です
 本家と同じです
 
 ## ProMicroにqmkを焼く
-下記のファームウェアを焼く必要があります
-https://github.com/ginjake/qmk_firmware/tree/ec_helix_niz
+下記のファームウェアを焼く必要があります  
+https://github.com/ginjake/qmk_firmware/tree/ec_helix_niz  
+``make ec_helix:ginjake:avrdude``
 
 ## トッププレート
 まずはトッププレートに10mmスペーサーとネジを取り付けます。 
@@ -156,6 +158,7 @@ https://github.com/ginjake/qmk_firmware/tree/ec_helix_niz
 ![image](https://user-images.githubusercontent.com/16838187/86486365-0ed7f700-bd96-11ea-810b-874c11bce676.png)
 
 ## サンドイッチ
-トッププレートと基板とボトムプレートをサンドイッチし、ネジで固定します
+トッププレートと基板とボトムプレートをサンドイッチし、ネジで固定します  
+隙間が空かない用、ぎゅっと押し込みましょう
 実際に打ってみて、問題なさそうなら完成です
 ![image](https://user-images.githubusercontent.com/16838187/86467211-f81ea980-bd6f-11ea-885c-c90c43699f8e.png)
