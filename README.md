@@ -119,10 +119,10 @@ LEDについてはunderglow、backlight共に未対応です
 それぞれの向きは下記のようになります 。  
 チップ部品に文字や印が書いてあるので、それを参考に合わせてください。  
 ![image](https://user-images.githubusercontent.com/16838187/87220234-1b171200-c39d-11ea-9f6a-1e15fdba3d55.png)
-
-AD8616ARM
+  
+AD8616ARM  
 ![image](https://user-images.githubusercontent.com/16838187/87220280-69c4ac00-c39d-11ea-935c-b0959e111c55.png)
-
+  
 
 それ以外のパーツは、次のようになります  
 ![ポンチ図](https://user-images.githubusercontent.com/16838187/87218828-4ac01d00-c391-11ea-9f25-194563ae06af.png)
