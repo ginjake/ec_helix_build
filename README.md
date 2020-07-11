@@ -60,7 +60,7 @@ Varmilo対応版と、niz対応版で基板が異なりますが、組み立て�
 | 1608チップ積層セラミックコンデンサー 50Vdc 220pF | 2 | GRM1882C1H221JA01D*A (10個入り)| https://www.marutsu.co.jp/GoodsDetail.jsp?salesGoodsCode=19297&shopNo=3 |
 |チップトランジスタ　２ＳＣ２７１２－ＧＲ　５０Ｖ１５０ｍ | 2 | | http://akizukidenshi.com/catalog/g/gI-00761/ |
 | 74HC4051DB IC MUX/DEMUX 8X1 16SSOP | 2 | | https://www.marutsu.co.jp/pc/i/24340308/ |
-| ２回路入オペアンプＡＤ８６１６ＡＲＭ | 2 | | http://akizukidenshi.com/catalog/g/gI-04570/ |
+| ２回路入オペアンプAD8616ARM | 2 | | http://akizukidenshi.com/catalog/g/gI-04570/ |
 | ジャンパ用の銅線 | 少し | | |
 | M2スペーサー 8mm | 12個 | 西川電子部品など |
 | ゴム足 | 追加で8個 | 遊舎工房の店頭など |
