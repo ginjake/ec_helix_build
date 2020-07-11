@@ -25,47 +25,45 @@ Varmilo対応版と、niz対応版で基板が異なりますが、組み立て�
 
 ## 部品
 
-下記は1つ作るのに必要な部品の数です。両手分を作るには2セット必要です。  
-
+下記は両手分を作るのに必要な部品の数です。
 ### 本家と共通の部品
 | 名前 | 数 | 備考 |
 | ---- | ---- | --- |
-| Pro Micro | 1個 | |
-| TRRSジャック | 1個 | |
-| タクトスイッチ | 1個 | |
-| スプリングピンヘッダ 12P | 2個 | コンスルーとも呼ばれています |
-| プレート（アクリル） | 1セット| |
-| 保護プレート | 1枚 | |
-| M2スペーサー 7mm| 6個 | |
-| M2スペーサー 8mm | 2個 | (OLED用)|
-| M2ネジ 3mm| 14個 | (低頭のほうが望ましい)|
-| M2低頭ネジ 5mm| 2個 | |
-| ゴム足 | 6個 |  |
-| キーキャップ | 32個 | キースイッチと互換があるもの |
+| Pro Micro | 2個 | |
+| TRRSジャック | 2個 | |
+| タクトスイッチ | 2個 | |
+| スプリングピンヘッダ 12P | 4個 | コンスルーとも呼ばれています |
+| プレート（アクリル） | 2セット| |
+| 保護プレート | 2枚 | |
+| M2スペーサー 7mm| 12個 | |
+| M2スペーサー 8mm | 4個 | (OLED用)|
+| M2ネジ 3mm| 28個 | (低頭のほうが望ましい)|
+| M2低頭ネジ 5mm| 4個 | |
+| ゴム足 | 12個 |  |
+| キーキャップ | 64個 | キースイッチと互換があるもの |
 | 3.5mmオーディオケーブル | 左右合わせて1本 | 左右のキーボード接続用 |
 | micro USBケーブル | 左右あわせて1本 | 
-| OLEDモジュール | 1個 | OLED用（オプション） |
-| ピンソケット 4P | 1個 | OLED用（オプション） |
-| ピンヘッダ 4P | 1個 | OLED用（オプション） |
+| OLEDモジュール | 2個 | OLED用（オプション） |
+| ピンソケット 4P | 2個 | OLED用（オプション） |
+| ピンヘッダ 4P | 2個 | OLED用（オプション） |
 
 
 ### 本家と異なる部品
 | 名前 | 数 | 備考 | 入手先 |
 | ---- | ---- | --- | ---- |
-| PCB | 1枚 | | |
-| 静電容量キースイッチ | 32個 | 詳しくは後述します | |
-| 1608(0603)チップ抵抗 100K | 7 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57HD |
-| 1608(0603)チップ抵抗 10K | 2 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57GX |
-| 1608(0603)チップ抵抗 1KΩ | 2| | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57GK |
-| 1608(0603)チップ抵抗 200Ω | 6 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57FZ |
-| 1608(0603)チップ抵抗 51KΩ | 1 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57H7 |
-| 1608チップ積層セラミックコンデンサー 50Vdc 220pF | 1 | GRM1882C1H221JA01D*A (10個入り)| https://www.marutsu.co.jp/GoodsDetail.jsp?salesGoodsCode=19297&shopNo=3 |
-|チップトランジスタ　２ＳＣ２７１２－ＧＲ　５０Ｖ１５０ｍ | 1 | | http://akizukidenshi.com/catalog/g/gI-00761/ |
-| 74HC4051DB IC MUX/DEMUX 8X1 16SSOP | 1 | | https://www.marutsu.co.jp/pc/i/24340308/ |
-| ２回路入オペアンプＡＤ８６１６ＡＲＭ | 1 | | http://akizukidenshi.com/catalog/g/gI-04570/ |
+| PCB | 2枚 | | |
+| 静電容量キースイッチ | 64個 | 詳しくは後述します | |
+| 1608(0603)チップ抵抗 100K | 16 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57HD |
+| 1608(0603)チップ抵抗 10K | 4 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57GX |
+| 1608(0603)チップ抵抗 1KΩ | 4| | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57GK |
+| 1608(0603)チップ抵抗 200Ω | 12 | | https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57FZ |
+| 1608チップ積層セラミックコンデンサー 50Vdc 220pF | 2 | GRM1882C1H221JA01D*A (10個入り)| https://www.marutsu.co.jp/GoodsDetail.jsp?salesGoodsCode=19297&shopNo=3 |
+|チップトランジスタ　２ＳＣ２７１２－ＧＲ　５０Ｖ１５０ｍ | 2 | | http://akizukidenshi.com/catalog/g/gI-00761/ |
+| 74HC4051DB IC MUX/DEMUX 8X1 16SSOP | 2 | | https://www.marutsu.co.jp/pc/i/24340308/ |
+| ２回路入オペアンプＡＤ８６１６ＡＲＭ | 2 | | http://akizukidenshi.com/catalog/g/gI-04570/ |
 | ジャンパ用の銅線 | 少し | | |
-| M2スペーサー 10mm | 6個 | 西川電子部品など |
-| ゴム足 | 追加で4個 | 遊舎工房の店頭など |
+| M2スペーサー 8mm | 12個 | 西川電子部品など |
+| ゴム足 | 追加で8個 | 遊舎工房の店頭など |
 | ワッシャー | 適宜 | M2用 |
   
 ### キースイッチ
@@ -110,7 +108,7 @@ LEDについてはunderglow、backlight共に未対応です
 
 ## 裏側に各種パーツを実装する
 基板をひっくり返し、各種パーツを実装します  
-![ポンチ図](https://user-images.githubusercontent.com/16838187/83891190-c2de6600-a787-11ea-8927-8929d10d0dcb.png)
+![ポンチ図](https://user-images.githubusercontent.com/16838187/87218828-4ac01d00-c391-11ea-9f25-194563ae06af.png)
 
 ## その他のパーツを実装する
 下記画像のパーツを実装していきます。  
