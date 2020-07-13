@@ -1,3 +1,11 @@
+## LICENSE
+creative commons non commercial
+
+商用利用したい場合は twitter @sirojake にご相談ください  
+please contact me for commercial use.
+## developer 
+ginjake
+
 ## 静電容量Helixとは？
 Helix Keyboardの基板を差し替え、静電容量スイッチに対応させる為の基板です   
 Varmiloスイッチ用とNizスイッチ用の2種類があり、本リポジトリはNiz版です
