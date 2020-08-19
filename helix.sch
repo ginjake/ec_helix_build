@@ -20,7 +20,7 @@ U 1 1 5986AC91
 P 10350 1900
 F 0 "SW1" H 10500 2010 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 1820 50  0000 C CNN
-F 2 "ec_helix:niz" H 10350 1900 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 10350 1900 50  0001 C CNN
 F 3 "" H 10350 1900 50  0000 C CNN
 	1    10350 1900
 	1    0    0    -1  
@@ -31,7 +31,7 @@ U 1 1 5986AE30
 P 11200 1900
 F 0 "SW2" H 11350 2010 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 1820 50  0000 C CNN
-F 2 "ec_helix:niz" H 11200 1900 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 11200 1900 50  0001 C CNN
 F 3 "" H 11200 1900 50  0000 C CNN
 	1    11200 1900
 	1    0    0    -1  
@@ -42,7 +42,7 @@ U 1 1 5986B47E
 P 12050 1900
 F 0 "SW3" H 12200 2010 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 1820 50  0000 C CNN
-F 2 "ec_helix:niz" H 12050 1900 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12050 1900 50  0001 C CNN
 F 3 "" H 12050 1900 50  0000 C CNN
 	1    12050 1900
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5986B48A
 P 12900 1900
 F 0 "SW4" H 13050 2010 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 1820 50  0000 C CNN
-F 2 "ec_helix:niz" H 12900 1900 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12900 1900 50  0001 C CNN
 F 3 "" H 12900 1900 50  0000 C CNN
 	1    12900 1900
 	1    0    0    -1  
@@ -64,7 +64,7 @@ U 1 1 5986BAB7
 P 13750 1900
 F 0 "SW5" H 13900 2010 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 1820 50  0000 C CNN
-F 2 "ec_helix:niz" H 13750 1900 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 13750 1900 50  0001 C CNN
 F 3 "" H 13750 1900 50  0000 C CNN
 	1    13750 1900
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5986BAC3
 P 14600 1900
 F 0 "SW6" H 14750 2010 50  0000 C CNN
 F 1 "SW_PUSH" H 14600 1820 50  0000 C CNN
-F 2 "ec_helix:niz" H 14600 1900 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 14600 1900 50  0001 C CNN
 F 3 "" H 14600 1900 50  0000 C CNN
 	1    14600 1900
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5986C660
 P 10350 2500
 F 0 "SW7" H 10500 2610 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 2420 50  0000 C CNN
-F 2 "ec_helix:niz" H 10350 2500 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 10350 2500 50  0001 C CNN
 F 3 "" H 10350 2500 50  0000 C CNN
 	1    10350 2500
 	1    0    0    -1  
@@ -97,7 +97,7 @@ U 1 1 5986C66C
 P 11200 2500
 F 0 "SW8" H 11350 2610 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 2420 50  0000 C CNN
-F 2 "ec_helix:niz" H 11200 2500 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 11200 2500 50  0001 C CNN
 F 3 "" H 11200 2500 50  0000 C CNN
 	1    11200 2500
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 5986C678
 P 12050 2500
 F 0 "SW9" H 12200 2610 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 2420 50  0000 C CNN
-F 2 "ec_helix:niz" H 12050 2500 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12050 2500 50  0001 C CNN
 F 3 "" H 12050 2500 50  0000 C CNN
 	1    12050 2500
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5986C684
 P 12900 2500
 F 0 "SW10" H 13050 2610 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 2420 50  0000 C CNN
-F 2 "ec_helix:niz" H 12900 2500 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12900 2500 50  0001 C CNN
 F 3 "" H 12900 2500 50  0000 C CNN
 	1    12900 2500
 	1    0    0    -1  
@@ -130,7 +130,7 @@ U 1 1 5986C690
 P 13750 2500
 F 0 "SW11" H 13900 2610 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 2420 50  0000 C CNN
-F 2 "ec_helix:niz" H 13750 2500 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 13750 2500 50  0001 C CNN
 F 3 "" H 13750 2500 50  0000 C CNN
 	1    13750 2500
 	1    0    0    -1  
@@ -141,7 +141,7 @@ U 1 1 5986C69C
 P 14600 2500
 F 0 "SW12" H 14750 2610 50  0000 C CNN
 F 1 "SW_PUSH" H 14600 2420 50  0000 C CNN
-F 2 "ec_helix:niz" H 14600 2500 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 14600 2500 50  0001 C CNN
 F 3 "" H 14600 2500 50  0000 C CNN
 	1    14600 2500
 	1    0    0    -1  
@@ -152,7 +152,7 @@ U 1 1 5986C966
 P 10350 3150
 F 0 "SW13" H 10500 3260 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 3070 50  0000 C CNN
-F 2 "ec_helix:niz" H 10350 3150 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 10350 3150 50  0001 C CNN
 F 3 "" H 10350 3150 50  0000 C CNN
 	1    10350 3150
 	1    0    0    -1  
@@ -163,7 +163,7 @@ U 1 1 5986C972
 P 11200 3150
 F 0 "SW14" H 11350 3260 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 3070 50  0000 C CNN
-F 2 "ec_helix:niz" H 11200 3150 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 11200 3150 50  0001 C CNN
 F 3 "" H 11200 3150 50  0000 C CNN
 	1    11200 3150
 	1    0    0    -1  
@@ -174,7 +174,7 @@ U 1 1 5986C97E
 P 12050 3150
 F 0 "SW15" H 12200 3260 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 3070 50  0000 C CNN
-F 2 "ec_helix:niz" H 12050 3150 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12050 3150 50  0001 C CNN
 F 3 "" H 12050 3150 50  0000 C CNN
 	1    12050 3150
 	1    0    0    -1  
@@ -185,7 +185,7 @@ U 1 1 5986C98A
 P 12900 3150
 F 0 "SW16" H 13050 3260 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 3070 50  0000 C CNN
-F 2 "ec_helix:niz" H 12900 3150 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12900 3150 50  0001 C CNN
 F 3 "" H 12900 3150 50  0000 C CNN
 	1    12900 3150
 	1    0    0    -1  
@@ -196,7 +196,7 @@ U 1 1 5986C996
 P 13750 3150
 F 0 "SW17" H 13900 3260 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 3070 50  0000 C CNN
-F 2 "ec_helix:niz" H 13750 3150 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 13750 3150 50  0001 C CNN
 F 3 "" H 13750 3150 50  0000 C CNN
 	1    13750 3150
 	1    0    0    -1  
@@ -207,7 +207,7 @@ U 1 1 5986C9A2
 P 14600 3150
 F 0 "SW18" H 14750 3260 50  0000 C CNN
 F 1 "SW_PUSH" H 14600 3070 50  0000 C CNN
-F 2 "ec_helix:niz" H 14600 3150 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 14600 3150 50  0001 C CNN
 F 3 "" H 14600 3150 50  0000 C CNN
 	1    14600 3150
 	1    0    0    -1  
@@ -218,7 +218,7 @@ U 1 1 5986C9AE
 P 10350 3750
 F 0 "SW19" H 10500 3860 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 3670 50  0000 C CNN
-F 2 "ec_helix:niz" H 10350 3750 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 10350 3750 50  0001 C CNN
 F 3 "" H 10350 3750 50  0000 C CNN
 	1    10350 3750
 	1    0    0    -1  
@@ -229,7 +229,7 @@ U 1 1 5986C9BA
 P 11200 3750
 F 0 "SW20" H 11350 3860 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 3670 50  0000 C CNN
-F 2 "ec_helix:niz" H 11200 3750 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 11200 3750 50  0001 C CNN
 F 3 "" H 11200 3750 50  0000 C CNN
 	1    11200 3750
 	1    0    0    -1  
@@ -240,7 +240,7 @@ U 1 1 5986C9C6
 P 12050 3750
 F 0 "SW21" H 12200 3860 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 3670 50  0000 C CNN
-F 2 "ec_helix:niz" H 12050 3750 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12050 3750 50  0001 C CNN
 F 3 "" H 12050 3750 50  0000 C CNN
 	1    12050 3750
 	1    0    0    -1  
@@ -251,7 +251,7 @@ U 1 1 5986C9D2
 P 12900 3750
 F 0 "SW22" H 13050 3860 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 3670 50  0000 C CNN
-F 2 "ec_helix:niz" H 12900 3750 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12900 3750 50  0001 C CNN
 F 3 "" H 12900 3750 50  0000 C CNN
 	1    12900 3750
 	1    0    0    -1  
@@ -262,7 +262,7 @@ U 1 1 5986C9DE
 P 13750 3750
 F 0 "SW23" H 13900 3860 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 3670 50  0000 C CNN
-F 2 "ec_helix:niz" H 13750 3750 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 13750 3750 50  0001 C CNN
 F 3 "" H 13750 3750 50  0000 C CNN
 	1    13750 3750
 	1    0    0    -1  
@@ -273,7 +273,7 @@ U 1 1 5986C9EA
 P 14600 3750
 F 0 "SW24" H 14750 3860 50  0000 C CNN
 F 1 "SW_PUSH" H 14600 3670 50  0000 C CNN
-F 2 "ec_helix:niz" H 14600 3750 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 14600 3750 50  0001 C CNN
 F 3 "" H 14600 3750 50  0000 C CNN
 	1    14600 3750
 	1    0    0    -1  
@@ -389,7 +389,7 @@ F 3 "" H 1050 750 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 980  1355 0    60   Input ~ 0
-LED
+LED_
 $Comp
 L power:VCC #PWR016
 U 1 1 59B056BA
@@ -418,7 +418,7 @@ U 1 1 59B8D894
 P 10350 4350
 F 0 "SW26" H 10500 4460 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 4270 50  0000 C CNN
-F 2 "ec_helix:niz" H 10350 4350 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 10350 4350 50  0001 C CNN
 F 3 "" H 10350 4350 50  0000 C CNN
 	1    10350 4350
 	1    0    0    -1  
@@ -429,7 +429,7 @@ U 1 1 59B8D8A0
 P 11200 4350
 F 0 "SW27" H 11350 4460 50  0000 C CNN
 F 1 "SW_PUSH" H 11200 4270 50  0000 C CNN
-F 2 "ec_helix:niz" H 11200 4350 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 11200 4350 50  0001 C CNN
 F 3 "" H 11200 4350 50  0000 C CNN
 	1    11200 4350
 	1    0    0    -1  
@@ -440,7 +440,7 @@ U 1 1 59B8D8AC
 P 12050 4350
 F 0 "SW28" H 12200 4460 50  0000 C CNN
 F 1 "SW_PUSH" H 12050 4270 50  0000 C CNN
-F 2 "ec_helix:niz" H 12050 4350 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12050 4350 50  0001 C CNN
 F 3 "" H 12050 4350 50  0000 C CNN
 	1    12050 4350
 	1    0    0    -1  
@@ -451,7 +451,7 @@ U 1 1 59B8D8B8
 P 12900 4350
 F 0 "SW29" H 13050 4460 50  0000 C CNN
 F 1 "SW_PUSH" H 12900 4270 50  0000 C CNN
-F 2 "ec_helix:niz" H 12900 4350 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 12900 4350 50  0001 C CNN
 F 3 "" H 12900 4350 50  0000 C CNN
 	1    12900 4350
 	1    0    0    -1  
@@ -462,7 +462,7 @@ U 1 1 59B8D8C4
 P 13750 4350
 F 0 "SW30" H 13900 4460 50  0000 C CNN
 F 1 "SW_PUSH" H 13750 4270 50  0000 C CNN
-F 2 "ec_helix:niz" H 13750 4350 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 13750 4350 50  0001 C CNN
 F 3 "" H 13750 4350 50  0000 C CNN
 	1    13750 4350
 	1    0    0    -1  
@@ -473,7 +473,7 @@ U 1 1 59B8D8D0
 P 14600 4350
 F 0 "SW31" H 14750 4460 50  0000 C CNN
 F 1 "SW_PUSH" H 14600 4270 50  0000 C CNN
-F 2 "ec_helix:niz" H 14600 4350 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 14600 4350 50  0001 C CNN
 F 3 "" H 14600 4350 50  0000 C CNN
 	1    14600 4350
 	1    0    0    -1  
@@ -591,7 +591,7 @@ U 1 1 5A04BA4A
 P 15450 3750
 F 0 "SW25" H 15600 3860 50  0000 C CNN
 F 1 "SW_PUSH" H 15450 3670 50  0000 C CNN
-F 2 "ec_helix:niz" H 15450 3750 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 15450 3750 50  0001 C CNN
 F 3 "" H 15450 3750 50  0000 C CNN
 	1    15450 3750
 	1    0    0    -1  
@@ -602,7 +602,7 @@ U 1 1 5A04C914
 P 15450 4350
 F 0 "SW32" H 15600 4460 50  0000 C CNN
 F 1 "SW_PUSH" H 15450 4270 50  0000 C CNN
-F 2 "ec_helix:niz" H 15450 4350 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 15450 4350 50  0001 C CNN
 F 3 "" H 15450 4350 50  0000 C CNN
 	1    15450 4350
 	1    0    0    -1  
@@ -820,11 +820,11 @@ Wire Wire Line
 Wire Wire Line
 	10650 4350 10650 4650
 Text GLabel 2880 1955 2    60   Input ~ 0
-row2
+row2_
 Text GLabel 2880 1855 2    60   Input ~ 0
-row1
+row1_
 Text GLabel 2880 1755 2    60   Input ~ 0
-row0
+row0_
 Wire Wire Line
 	1050 4300 1000 4300
 Wire Wire Line
@@ -865,36 +865,28 @@ Wire Wire Line
 Wire Wire Line
 	1000 4700 1000 4650
 Connection ~ 1000 4650
-Text GLabel 950  3900 0    50   Input ~ 0
-row0_
-Text GLabel 950  4000 0    50   Input ~ 0
-row1_
-Text GLabel 950  4100 0    50   Input ~ 0
-row2_
 Wire Wire Line
 	950  3900 1050 3900
 Wire Wire Line
 	950  4000 1050 4000
 Wire Wire Line
 	950  4100 1050 4100
-Text GLabel 950  3700 0    50   Input ~ 0
-a_
 Wire Wire Line
 	950  3700 1050 3700
 Text GLabel 3650 3700 2    50   Input ~ 0
-a0
-Text GLabel 3650 3800 2    50   Input ~ 0
 a1
+Text GLabel 3650 3800 2    50   Input ~ 0
+a5
 Text GLabel 3650 3900 2    50   Input ~ 0
 a2
 Text GLabel 3650 4000 2    50   Input ~ 0
-a3
+a6
 Text GLabel 3650 4100 2    50   Input ~ 0
 a4
 Text GLabel 3650 4200 2    50   Input ~ 0
-a5
+a0
 Text GLabel 3650 4300 2    50   Input ~ 0
-a6
+a3
 Wire Wire Line
 	1750 4400 1800 4400
 Wire Wire Line
@@ -934,10 +926,10 @@ Wire Wire Line
 Wire Wire Line
 	10650 4050 11500 4050
 $Comp
-L Device:R R9
+L Device:R R12
 U 1 1 5F38C187
 P 2700 4500
-F 0 "R9" H 2770 4546 50  0000 L CNN
+F 0 "R12" H 2770 4546 50  0000 L CNN
 F 1 "100kΩ" H 2770 4455 50  0000 L CNN
 F 2 "rs:R_0603_1608Metric" V 2630 4500 50  0001 C CNN
 F 3 "~" H 2700 4500 50  0001 C CNN
@@ -956,10 +948,10 @@ F 3 "~" H 2950 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R11
+L Device:R R6
 U 1 1 5F3C2497
 P 3200 4500
-F 0 "R11" H 3270 4546 50  0000 L CNN
+F 0 "R6" H 3270 4546 50  0000 L CNN
 F 1 "100kΩ" H 3270 4455 50  0000 L CNN
 F 2 "rs:R_0603_1608Metric" V 3130 4500 50  0001 C CNN
 F 3 "~" H 3200 4500 50  0001 C CNN
@@ -967,10 +959,10 @@ F 3 "~" H 3200 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R12
+L Device:R R9
 U 1 1 5F3C24A1
 P 3450 4500
-F 0 "R12" H 3520 4546 50  0000 L CNN
+F 0 "R9" H 3520 4546 50  0000 L CNN
 F 1 "100kΩ" H 3520 4455 50  0000 L CNN
 F 2 "rs:R_0603_1608Metric" V 3380 4500 50  0001 C CNN
 F 3 "~" H 3450 4500 50  0001 C CNN
@@ -1101,7 +1093,7 @@ L Device:R R16
 U 1 1 5F74CB2B
 P 3350 8350
 F 0 "R16" H 3420 8396 50  0000 L CNN
-F 1 "51kΩ" H 3420 8305 50  0000 L CNN
+F 1 "51-100kΩ" H 3420 8305 50  0000 L CNN
 F 2 "rs:R_0603_1608Metric" V 3280 8350 50  0001 C CNN
 F 3 "~" H 3350 8350 50  0001 C CNN
 	1    3350 8350
@@ -1185,29 +1177,10 @@ Wire Wire Line
 Wire Wire Line
 	1300 8850 2000 8850
 Connection ~ 2000 8850
-$Comp
-L Device:R R17
-U 1 1 5F9A5663
-P 800 8450
-F 0 "R17" H 870 8496 50  0000 L CNN
-F 1 "10kΩ" H 870 8405 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 730 8450 50  0001 C CNN
-F 3 "~" H 800 8450 50  0001 C CNN
-	1    800  8450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	950  8450 1000 8450
-Text GLabel 4000 7900 2    50   Input ~ 0
-adc_
 Text GLabel 2880 2355 2    60   Input ~ 0
-charge
-Wire Wire Line
-	1230 2455 980  2455
-Text GLabel 500  8450 0    60   Input ~ 0
 charge_
 Wire Wire Line
-	500  8450 650  8450
+	1230 2455 980  2455
 $Comp
 L Transistor_BJT:2SC1945 Q1
 U 1 1 5FC19ACA
@@ -1219,8 +1192,6 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf" H 1
 	1    1200 8450
 	1    0    0    -1  
 $EndComp
-Text GLabel 1000 7800 0    50   Input ~ 0
-a_
 Wire Wire Line
 	1000 7800 1300 7800
 Connection ~ 1300 7800
@@ -1232,23 +1203,23 @@ Wire Wire Line
 	2630 2355 2880 2355
 NoConn ~ 980  2455
 Text Label 980  1755 2    60   ~ 0
-SDA
+SDA_
 Text Label 980  1855 2    60   ~ 0
-SCL
+SCL_
 Wire Wire Line
 	1230 2255 980  2255
 Wire Wire Line
 	1230 2355 980  2355
 Text GLabel 7260 2560 0    60   Input ~ 0
-col00
+col00_
 Text GLabel 7265 2730 0    60   Input ~ 0
-col01
+col01_
 Text GLabel 7270 2890 0    60   Input ~ 0
-col02
+col02_
 Text GLabel 7250 3200 0    60   Input ~ 0
-col04
+col04_
 Text GLabel 7270 3050 0    60   Input ~ 0
-col03
+col03_
 Text GLabel 7250 3400 0    60   Input ~ 0
 col00
 Text GLabel 7250 3555 0    60   Input ~ 0
@@ -1261,24 +1232,18 @@ Text GLabel 7235 3860 0    60   Input ~ 0
 col03
 Text GLabel 7220 4430 0    60   Input ~ 0
 LED
-Text GLabel 7220 4530 0    60   Input ~ 0
-data
 Text Label 7220 4230 2    60   ~ 0
 SCL
 Text Label 7220 4330 2    60   ~ 0
-SDA
+SDA_
 Text GLabel 7220 4980 0    60   Input ~ 0
-LED
-Text GLabel 7220 5080 0    60   Input ~ 0
-data
+LED_
+Text GLabel 7790 5475 0    60   Input ~ 0
+row1_
 Text Label 7220 4780 2    60   ~ 0
-SCL
+SCL_
 Text Label 7220 4880 2    60   ~ 0
 SDA
-Text Label 7150 1400 2    60   ~ 0
-~RESET
-Text Label 7150 1600 2    60   ~ 0
-~RESET
 $Comp
 L 74xx:74HC4051 U35
 U 1 1 5EB2DB6E
@@ -1338,18 +1303,6 @@ Wire Wire Line
 	1000 5750 1100 5750
 Wire Wire Line
 	1000 5350 1100 5350
-Text GLabel 3700 5350 2    50   Input ~ 0
-a5
-Text GLabel 3700 5450 2    50   Input ~ 0
-a2
-Text GLabel 3700 5550 2    50   Input ~ 0
-a1
-Text GLabel 3700 5650 2    50   Input ~ 0
-a6
-Text GLabel 3700 5750 2    50   Input ~ 0
-a4
-Text GLabel 3700 5850 2    50   Input ~ 0
-a0
 Wire Wire Line
 	1800 6050 1850 6050
 Wire Wire Line
@@ -1368,215 +1321,44 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM2904 U37
 U 2 1 5ED12F9E
-P 7600 10000
-F 0 "U37" H 7600 10367 50  0000 C CNN
-F 1 "AD8616" H 7600 10276 50  0000 C CNN
-F 2 "" H 7600 10000 50  0001 C CNN
-F 3 "" H 7600 10000 50  0001 C CNN
-	2    7600 10000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Amplifier_Operational:LM2904 U37
-U 3 1 5ED12FA8
-P 7700 7850
-F 0 "U37" H 7658 7850 50  0001 L CNN
-F 1 "AD8616" H 7658 7805 50  0001 L CNN
-F 2 "" H 7700 7850 50  0001 C CNN
-F 3 "" H 7700 7850 50  0001 C CNN
-	3    7700 7850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C C2
-U 1 1 5ED12FB2
-P 6600 8550
-F 0 "C2" H 6715 8596 50  0000 L CNN
-F 1 "220pF" H 6715 8505 50  0000 L CNN
-F 2 "cs:C_0603_1608Metric" H 6638 8400 50  0001 C CNN
-F 3 "~" H 6600 8550 50  0001 C CNN
-	1    6600 8550
+P 7465 9940
+F 0 "U37" H 7465 10307 50  0000 C CNN
+F 1 "AD8616" H 7465 10216 50  0000 C CNN
+F 2 "" H 7465 9940 50  0001 C CNN
+F 3 "" H 7465 9940 50  0001 C CNN
+	2    7465 9940
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR027
 U 1 1 5ED12FBC
-P 7050 10300
-F 0 "#PWR027" H 7050 10050 50  0001 C CNN
-F 1 "GND" H 7050 10150 50  0000 C CNN
-F 2 "" H 7050 10300 50  0000 C CNN
-F 3 "" H 7050 10300 50  0000 C CNN
-	1    7050 10300
+P 6915 10240
+F 0 "#PWR027" H 6915 9990 50  0001 C CNN
+F 1 "GND" H 6915 10090 50  0000 C CNN
+F 2 "" H 6915 10240 50  0000 C CNN
+F 3 "" H 6915 10240 50  0000 C CNN
+	1    6915 10240
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7300 9900 7050 9900
+	7165 9840 6915 9840
 Wire Wire Line
-	7050 9900 7050 10300
+	6915 9840 6915 10240
 Wire Wire Line
-	7300 10300 7950 10300
+	7165 10240 7815 10240
 Wire Wire Line
-	7950 10300 7950 10000
+	7815 10240 7815 9940
 Wire Wire Line
-	7950 10000 7900 10000
+	7815 9940 7765 9940
 Wire Wire Line
-	7300 10100 7300 10300
-$Comp
-L power:VCC #PWR015
-U 1 1 5ED12FCC
-P 7600 7200
-F 0 "#PWR015" H 7600 7050 50  0001 C CNN
-F 1 "VCC" H 7600 7350 50  0000 C CNN
-F 2 "" H 7600 7200 50  0000 C CNN
-F 3 "" H 7600 7200 50  0000 C CNN
-	1    7600 7200
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR026
-U 1 1 5ED12FD6
-P 7600 9000
-F 0 "#PWR026" H 7600 8750 50  0001 C CNN
-F 1 "GND" H 7600 8850 50  0000 C CNN
-F 2 "" H 7600 9000 50  0000 C CNN
-F 3 "" H 7600 9000 50  0000 C CNN
-	1    7600 9000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R19
-U 1 1 5ED12FE0
-P 7950 7400
-F 0 "R19" H 8020 7446 50  0000 L CNN
-F 1 "10kΩ" H 8020 7355 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 7880 7400 50  0001 C CNN
-F 3 "~" H 7950 7400 50  0001 C CNN
-	1    7950 7400
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	7600 7200 7600 7400
-Wire Wire Line
-	7800 7400 7600 7400
-Connection ~ 7600 7400
-Wire Wire Line
-	7600 7400 7600 7550
-Wire Wire Line
-	8000 7850 8150 7850
-Wire Wire Line
-	8100 7400 8150 7400
-Wire Wire Line
-	8150 7400 8150 7850
-Connection ~ 8150 7850
-Wire Wire Line
-	8150 7850 8600 7850
-$Comp
-L Device:R R22
-U 1 1 5ED12FF3
-P 7950 8300
-F 0 "R22" H 8020 8346 50  0000 L CNN
-F 1 "51kΩ" H 8020 8255 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 7880 8300 50  0001 C CNN
-F 3 "~" H 7950 8300 50  0001 C CNN
-	1    7950 8300
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	8150 7850 8150 8300
-Wire Wire Line
-	8150 8300 8100 8300
-Wire Wire Line
-	7800 8300 7200 8300
-Wire Wire Line
-	7200 8300 7200 8400
-Wire Wire Line
-	7200 8300 7200 7950
-Wire Wire Line
-	7200 7950 7400 7950
-Connection ~ 7200 8300
-Wire Wire Line
-	7200 8700 7200 8800
-Wire Wire Line
-	7200 8800 7600 8800
-Connection ~ 7600 8800
-Wire Wire Line
-	7600 8800 7600 9000
-Wire Wire Line
-	7600 8150 7600 8800
-$Comp
-L Device:R R20
-U 1 1 5ED13013
-P 7050 7750
-F 0 "R20" H 7120 7796 50  0000 L CNN
-F 1 "1kΩ" H 7120 7705 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 6980 7750 50  0001 C CNN
-F 3 "~" H 7050 7750 50  0001 C CNN
-	1    7050 7750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R21
-U 1 1 5ED1301D
-P 5900 7950
-F 0 "R21" H 5970 7996 50  0000 L CNN
-F 1 "200Ω" H 5970 7905 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 5830 7950 50  0001 C CNN
-F 3 "~" H 5900 7950 50  0001 C CNN
-	1    5900 7950
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7200 7750 7400 7750
-Wire Wire Line
-	6900 7750 6600 7750
-Wire Wire Line
-	5900 7750 5900 7800
-Wire Wire Line
-	6600 8400 6600 7750
-Connection ~ 6600 7750
-Wire Wire Line
-	6600 7750 5900 7750
-Wire Wire Line
-	6600 8700 6600 8800
-Wire Wire Line
-	6600 8800 7200 8800
-Connection ~ 7200 8800
-Wire Wire Line
-	5900 8100 5900 8200
-Wire Wire Line
-	5900 8600 5900 8800
-Wire Wire Line
-	5900 8800 6600 8800
-Connection ~ 6600 8800
-$Comp
-L Device:R R23
-U 1 1 5ED13034
-P 5400 8400
-F 0 "R23" H 5470 8446 50  0000 L CNN
-F 1 "10kΩ" H 5470 8355 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 5330 8400 50  0001 C CNN
-F 3 "~" H 5400 8400 50  0001 C CNN
-	1    5400 8400
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	5550 8400 5600 8400
-Text GLabel 8600 7850 2    50   Input ~ 0
-adc
-Text GLabel 5100 8400 0    60   Input ~ 0
-charge
-Wire Wire Line
-	5100 8400 5250 8400
-Wire Wire Line
-	5600 7750 5900 7750
-Connection ~ 5900 7750
+	7165 10040 7165 10240
 $Comp
 L phi-kbd-library-master:ProMicro U38
 U 1 1 5EDD6FBF
 P -1535 3140
 F 0 "U38" H -1135 4140 60  0000 C CNN
 F 1 "ProMicro" V -1735 3140 60  0000 C CNN
-F 2 "ec_helix:ProMicro" H -1535 3240 60  0001 C CNN
+F 2 "kbd:ProMicro_v3.5" H -1535 3240 60  0001 C CNN
 F 3 "" H -1535 3240 60  0000 C CNN
 	1    -1535 3140
 	1    0    0    -1  
@@ -1634,11 +1416,11 @@ Wire Wire Line
 Wire Wire Line
 	-835 2790 -585 2790
 Text GLabel -585 3490 2    60   Input ~ 0
-adc_
+adc
 Wire Wire Line
 	-835 3490 -585 3490
 Text GLabel -585 3390 2    60   Input ~ 0
-charge_
+charge
 Wire Wire Line
 	-2235 2790 -2485 2790
 Wire Wire Line
@@ -1799,17 +1581,6 @@ F 3 "~" H 7320 4430 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad JP22
-U 1 1 5EFB9BB3
-P 7320 4530
-F 0 "JP22" V 7274 4680 50  0000 L CNN
-F 1 "MountingHole_Pad" V 7365 4680 50  0000 L CNN
-F 2 "phi-kbd-library-master:THSmallest" H 7320 4530 50  0001 C CNN
-F 3 "~" H 7320 4530 50  0001 C CNN
-	1    7320 4530
-	0    1    1    0   
-$EndComp
-$Comp
 L Mechanical:MountingHole_Pad JP23
 U 1 1 5EFBAC62
 P 7320 4780
@@ -1845,38 +1616,14 @@ $EndComp
 $Comp
 L Mechanical:MountingHole_Pad JP26
 U 1 1 5EFBAC80
-P 7320 5080
-F 0 "JP26" V 7274 5230 50  0000 L CNN
-F 1 "MountingHole_Pad" V 7365 5230 50  0000 L CNN
-F 2 "phi-kbd-library-master:THSmallest" H 7320 5080 50  0001 C CNN
-F 3 "~" H 7320 5080 50  0001 C CNN
-	1    7320 5080
+P 7890 5475
+F 0 "JP26" V 7844 5625 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7935 5625 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7890 5475 50  0001 C CNN
+F 3 "~" H 7890 5475 50  0001 C CNN
+	1    7890 5475
 	0    1    1    0   
 $EndComp
-$Comp
-L Mechanical:MountingHole_Pad JP27
-U 1 1 5F0AD7F7
-P 7250 1400
-F 0 "JP27" V 7204 1550 50  0000 L CNN
-F 1 "MountingHole_Pad" V 7295 1550 50  0000 L CNN
-F 2 "phi-kbd-library-master:THSmallest" H 7250 1400 50  0001 C CNN
-F 3 "~" H 7250 1400 50  0001 C CNN
-	1    7250 1400
-	0    1    1    0   
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad JP28
-U 1 1 5F0AE741
-P 7250 1600
-F 0 "JP28" V 7204 1750 50  0000 L CNN
-F 1 "MountingHole_Pad" V 7295 1750 50  0000 L CNN
-F 2 "phi-kbd-library-master:THSmallest" H 7250 1600 50  0001 C CNN
-F 3 "~" H 7250 1600 50  0001 C CNN
-	1    7250 1600
-	0    1    1    0   
-$EndComp
-Text GLabel 3700 5950 2    50   Input ~ 0
-a3
 Wire Wire Line
 	1800 5950 3500 5950
 $Comp
@@ -1885,7 +1632,7 @@ U 1 1 5E970DD9
 P 18450 1850
 F 0 "SW34" H 18600 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 18450 1770 50  0000 C CNN
-F 2 "ec_helix:niz" H 18450 1850 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 18450 1850 50  0001 C CNN
 F 3 "" H 18450 1850 50  0000 C CNN
 	1    18450 1850
 	1    0    0    -1  
@@ -1896,7 +1643,7 @@ U 1 1 5E970DE3
 P 19300 1850
 F 0 "SW35" H 19450 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 19300 1770 50  0000 C CNN
-F 2 "ec_helix:niz" H 19300 1850 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 19300 1850 50  0001 C CNN
 F 3 "" H 19300 1850 50  0000 C CNN
 	1    19300 1850
 	1    0    0    -1  
@@ -1907,7 +1654,7 @@ U 1 1 5E970DED
 P 20150 1850
 F 0 "SW36" H 20300 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 20150 1770 50  0000 C CNN
-F 2 "ec_helix:niz" H 20150 1850 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 20150 1850 50  0001 C CNN
 F 3 "" H 20150 1850 50  0000 C CNN
 	1    20150 1850
 	1    0    0    -1  
@@ -1918,7 +1665,7 @@ U 1 1 5E970DF7
 P 21000 1850
 F 0 "SW37" H 21150 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 21000 1770 50  0000 C CNN
-F 2 "ec_helix:niz" H 21000 1850 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21000 1850 50  0001 C CNN
 F 3 "" H 21000 1850 50  0000 C CNN
 	1    21000 1850
 	1    0    0    -1  
@@ -1929,7 +1676,7 @@ U 1 1 5E970E01
 P 21850 1850
 F 0 "SW38" H 22000 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 21850 1770 50  0000 C CNN
-F 2 "ec_helix:niz" H 21850 1850 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21850 1850 50  0001 C CNN
 F 3 "" H 21850 1850 50  0000 C CNN
 	1    21850 1850
 	1    0    0    -1  
@@ -1940,7 +1687,7 @@ U 1 1 5E970E0B
 P 22700 1850
 F 0 "SW39" H 22850 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 22700 1770 50  0000 C CNN
-F 2 "ec_helix:niz" H 22700 1850 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 22700 1850 50  0001 C CNN
 F 3 "" H 22700 1850 50  0000 C CNN
 	1    22700 1850
 	1    0    0    -1  
@@ -1951,7 +1698,7 @@ U 1 1 5E970E15
 P 18450 2450
 F 0 "SW40" H 18600 2560 50  0000 C CNN
 F 1 "SW_PUSH" H 18450 2370 50  0000 C CNN
-F 2 "ec_helix:niz" H 18450 2450 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 18450 2450 50  0001 C CNN
 F 3 "" H 18450 2450 50  0000 C CNN
 	1    18450 2450
 	1    0    0    -1  
@@ -1962,7 +1709,7 @@ U 1 1 5E970E1F
 P 19300 2450
 F 0 "SW41" H 19450 2560 50  0000 C CNN
 F 1 "SW_PUSH" H 19300 2370 50  0000 C CNN
-F 2 "ec_helix:niz" H 19300 2450 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 19300 2450 50  0001 C CNN
 F 3 "" H 19300 2450 50  0000 C CNN
 	1    19300 2450
 	1    0    0    -1  
@@ -1973,7 +1720,7 @@ U 1 1 5E970E29
 P 20150 2450
 F 0 "SW42" H 20300 2560 50  0000 C CNN
 F 1 "SW_PUSH" H 20150 2370 50  0000 C CNN
-F 2 "ec_helix:niz" H 20150 2450 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 20150 2450 50  0001 C CNN
 F 3 "" H 20150 2450 50  0000 C CNN
 	1    20150 2450
 	1    0    0    -1  
@@ -1984,7 +1731,7 @@ U 1 1 5E970E33
 P 21000 2450
 F 0 "SW43" H 21150 2560 50  0000 C CNN
 F 1 "SW_PUSH" H 21000 2370 50  0000 C CNN
-F 2 "ec_helix:niz" H 21000 2450 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21000 2450 50  0001 C CNN
 F 3 "" H 21000 2450 50  0000 C CNN
 	1    21000 2450
 	1    0    0    -1  
@@ -1995,7 +1742,7 @@ U 1 1 5E970E3D
 P 21850 2450
 F 0 "SW44" H 22000 2560 50  0000 C CNN
 F 1 "SW_PUSH" H 21850 2370 50  0000 C CNN
-F 2 "ec_helix:niz" H 21850 2450 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21850 2450 50  0001 C CNN
 F 3 "" H 21850 2450 50  0000 C CNN
 	1    21850 2450
 	1    0    0    -1  
@@ -2006,7 +1753,7 @@ U 1 1 5E970E47
 P 22700 2450
 F 0 "SW45" H 22850 2560 50  0000 C CNN
 F 1 "SW_PUSH" H 22700 2370 50  0000 C CNN
-F 2 "ec_helix:niz" H 22700 2450 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 22700 2450 50  0001 C CNN
 F 3 "" H 22700 2450 50  0000 C CNN
 	1    22700 2450
 	1    0    0    -1  
@@ -2017,7 +1764,7 @@ U 1 1 5E970E51
 P 18450 3100
 F 0 "SW46" H 18600 3210 50  0000 C CNN
 F 1 "SW_PUSH" H 18450 3020 50  0000 C CNN
-F 2 "ec_helix:niz" H 18450 3100 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 18450 3100 50  0001 C CNN
 F 3 "" H 18450 3100 50  0000 C CNN
 	1    18450 3100
 	1    0    0    -1  
@@ -2028,7 +1775,7 @@ U 1 1 5E970E5B
 P 19300 3100
 F 0 "SW47" H 19450 3210 50  0000 C CNN
 F 1 "SW_PUSH" H 19300 3020 50  0000 C CNN
-F 2 "ec_helix:niz" H 19300 3100 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 19300 3100 50  0001 C CNN
 F 3 "" H 19300 3100 50  0000 C CNN
 	1    19300 3100
 	1    0    0    -1  
@@ -2039,7 +1786,7 @@ U 1 1 5E970E65
 P 20150 3100
 F 0 "SW48" H 20300 3210 50  0000 C CNN
 F 1 "SW_PUSH" H 20150 3020 50  0000 C CNN
-F 2 "ec_helix:niz" H 20150 3100 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 20150 3100 50  0001 C CNN
 F 3 "" H 20150 3100 50  0000 C CNN
 	1    20150 3100
 	1    0    0    -1  
@@ -2050,7 +1797,7 @@ U 1 1 5E970E6F
 P 21000 3100
 F 0 "SW49" H 21150 3210 50  0000 C CNN
 F 1 "SW_PUSH" H 21000 3020 50  0000 C CNN
-F 2 "ec_helix:niz" H 21000 3100 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21000 3100 50  0001 C CNN
 F 3 "" H 21000 3100 50  0000 C CNN
 	1    21000 3100
 	1    0    0    -1  
@@ -2061,7 +1808,7 @@ U 1 1 5E970E79
 P 21850 3100
 F 0 "SW50" H 22000 3210 50  0000 C CNN
 F 1 "SW_PUSH" H 21850 3020 50  0000 C CNN
-F 2 "ec_helix:niz" H 21850 3100 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21850 3100 50  0001 C CNN
 F 3 "" H 21850 3100 50  0000 C CNN
 	1    21850 3100
 	1    0    0    -1  
@@ -2072,7 +1819,7 @@ U 1 1 5E970E83
 P 22700 3100
 F 0 "SW51" H 22850 3210 50  0000 C CNN
 F 1 "SW_PUSH" H 22700 3020 50  0000 C CNN
-F 2 "ec_helix:niz" H 22700 3100 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 22700 3100 50  0001 C CNN
 F 3 "" H 22700 3100 50  0000 C CNN
 	1    22700 3100
 	1    0    0    -1  
@@ -2083,7 +1830,7 @@ U 1 1 5E970E8D
 P 18450 3700
 F 0 "SW52" H 18600 3810 50  0000 C CNN
 F 1 "SW_PUSH" H 18450 3620 50  0000 C CNN
-F 2 "ec_helix:niz" H 18450 3700 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 18450 3700 50  0001 C CNN
 F 3 "" H 18450 3700 50  0000 C CNN
 	1    18450 3700
 	1    0    0    -1  
@@ -2094,7 +1841,7 @@ U 1 1 5E970E97
 P 19300 3700
 F 0 "SW53" H 19450 3810 50  0000 C CNN
 F 1 "SW_PUSH" H 19300 3620 50  0000 C CNN
-F 2 "ec_helix:niz" H 19300 3700 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 19300 3700 50  0001 C CNN
 F 3 "" H 19300 3700 50  0000 C CNN
 	1    19300 3700
 	1    0    0    -1  
@@ -2105,7 +1852,7 @@ U 1 1 5E970EA1
 P 20150 3700
 F 0 "SW54" H 20300 3810 50  0000 C CNN
 F 1 "SW_PUSH" H 20150 3620 50  0000 C CNN
-F 2 "ec_helix:niz" H 20150 3700 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 20150 3700 50  0001 C CNN
 F 3 "" H 20150 3700 50  0000 C CNN
 	1    20150 3700
 	1    0    0    -1  
@@ -2116,7 +1863,7 @@ U 1 1 5E970EAB
 P 21000 3700
 F 0 "SW55" H 21150 3810 50  0000 C CNN
 F 1 "SW_PUSH" H 21000 3620 50  0000 C CNN
-F 2 "ec_helix:niz" H 21000 3700 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21000 3700 50  0001 C CNN
 F 3 "" H 21000 3700 50  0000 C CNN
 	1    21000 3700
 	1    0    0    -1  
@@ -2127,7 +1874,7 @@ U 1 1 5E970EB5
 P 21850 3700
 F 0 "SW56" H 22000 3810 50  0000 C CNN
 F 1 "SW_PUSH" H 21850 3620 50  0000 C CNN
-F 2 "ec_helix:niz" H 21850 3700 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21850 3700 50  0001 C CNN
 F 3 "" H 21850 3700 50  0000 C CNN
 	1    21850 3700
 	1    0    0    -1  
@@ -2138,7 +1885,7 @@ U 1 1 5E970EBF
 P 22700 3700
 F 0 "SW57" H 22850 3810 50  0000 C CNN
 F 1 "SW_PUSH" H 22700 3620 50  0000 C CNN
-F 2 "ec_helix:niz" H 22700 3700 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 22700 3700 50  0001 C CNN
 F 3 "" H 22700 3700 50  0000 C CNN
 	1    22700 3700
 	1    0    0    -1  
@@ -2169,7 +1916,7 @@ U 1 1 5E970ED3
 P 18450 4300
 F 0 "SW59" H 18600 4410 50  0000 C CNN
 F 1 "SW_PUSH" H 18450 4220 50  0000 C CNN
-F 2 "ec_helix:niz" H 18450 4300 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 18450 4300 50  0001 C CNN
 F 3 "" H 18450 4300 50  0000 C CNN
 	1    18450 4300
 	1    0    0    -1  
@@ -2180,7 +1927,7 @@ U 1 1 5E970EDD
 P 19300 4300
 F 0 "SW60" H 19450 4410 50  0000 C CNN
 F 1 "SW_PUSH" H 19300 4220 50  0000 C CNN
-F 2 "ec_helix:niz" H 19300 4300 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 19300 4300 50  0001 C CNN
 F 3 "" H 19300 4300 50  0000 C CNN
 	1    19300 4300
 	1    0    0    -1  
@@ -2191,7 +1938,7 @@ U 1 1 5E970EE7
 P 20150 4300
 F 0 "SW61" H 20300 4410 50  0000 C CNN
 F 1 "SW_PUSH" H 20150 4220 50  0000 C CNN
-F 2 "ec_helix:niz" H 20150 4300 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 20150 4300 50  0001 C CNN
 F 3 "" H 20150 4300 50  0000 C CNN
 	1    20150 4300
 	1    0    0    -1  
@@ -2202,7 +1949,7 @@ U 1 1 5E970EF1
 P 21000 4300
 F 0 "SW62" H 21150 4410 50  0000 C CNN
 F 1 "SW_PUSH" H 21000 4220 50  0000 C CNN
-F 2 "ec_helix:niz" H 21000 4300 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21000 4300 50  0001 C CNN
 F 3 "" H 21000 4300 50  0000 C CNN
 	1    21000 4300
 	1    0    0    -1  
@@ -2213,7 +1960,7 @@ U 1 1 5E970EFB
 P 21850 4300
 F 0 "SW63" H 22000 4410 50  0000 C CNN
 F 1 "SW_PUSH" H 21850 4220 50  0000 C CNN
-F 2 "ec_helix:niz" H 21850 4300 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 21850 4300 50  0001 C CNN
 F 3 "" H 21850 4300 50  0000 C CNN
 	1    21850 4300
 	1    0    0    -1  
@@ -2224,7 +1971,7 @@ U 1 1 5E970F05
 P 22700 4300
 F 0 "SW64" H 22850 4410 50  0000 C CNN
 F 1 "SW_PUSH" H 22700 4220 50  0000 C CNN
-F 2 "ec_helix:niz" H 22700 4300 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 22700 4300 50  0001 C CNN
 F 3 "" H 22700 4300 50  0000 C CNN
 	1    22700 4300
 	1    0    0    -1  
@@ -2239,7 +1986,7 @@ U 1 1 5E970F11
 P 23550 3700
 F 0 "SW58" H 23700 3810 50  0000 C CNN
 F 1 "SW_PUSH" H 23550 3620 50  0000 C CNN
-F 2 "ec_helix:niz" H 23550 3700 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 23550 3700 50  0001 C CNN
 F 3 "" H 23550 3700 50  0000 C CNN
 	1    23550 3700
 	1    0    0    -1  
@@ -2250,7 +1997,7 @@ U 1 1 5E970F1B
 P 23550 4300
 F 0 "SW65" H 23700 4410 50  0000 C CNN
 F 1 "SW_PUSH" H 23550 4220 50  0000 C CNN
-F 2 "ec_helix:niz" H 23550 4300 50  0001 C CNN
+F 2 "ec_helix:MX_Hotswap-1.00u-irreversible" H 23550 4300 50  0001 C CNN
 F 3 "" H 23550 4300 50  0000 C CNN
 	1    23550 4300
 	1    0    0    -1  
@@ -2411,13 +2158,13 @@ Wire Wire Line
 Wire Wire Line
 	17850 4600 18750 4600
 Text GLabel 980  2055 0    60   Input ~ 0
-col01
+col01_
 Text GLabel 980  2155 0    60   Input ~ 0
-col02
+col02_
 Text GLabel 980  2255 0    60   Input ~ 0
-col03
+col03_
 Text GLabel 980  2355 0    60   Input ~ 0
-col04
+col04_
 Text GLabel 4550 1300 2    60   Input ~ 0
 col01
 Text GLabel 4550 1200 2    60   Input ~ 0
@@ -2438,8 +2185,6 @@ Text GLabel 4250 1500 0    60   Input ~ 0
 col3
 Text GLabel 4250 1600 0    60   Input ~ 0
 col4
-Text GLabel 5600 7750 0    50   Input ~ 0
-a
 Text GLabel 1000 5350 0    50   Input ~ 0
 a
 Text GLabel 1000 5750 0    50   Input ~ 0
@@ -2449,11 +2194,11 @@ row1
 Text GLabel 1000 5550 0    50   Input ~ 0
 row0
 Text GLabel -585 2790 2    60   Input ~ 0
-row0_
+row0
 Text GLabel -585 2890 2    60   Input ~ 0
-row1_
+row1
 Text GLabel -585 2990 2    60   Input ~ 0
-row2_
+row2
 $Comp
 L Device:R R4
 U 1 1 5EC58F8B
@@ -2510,17 +2255,6 @@ F 3 "~" H 4400 1200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R R24
-U 1 1 5ED12FFD
-P 7200 8550
-F 0 "R24" H 7270 8596 50  0000 L CNN
-F 1 "1kΩ" H 7270 8505 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 7130 8550 50  0001 C CNN
-F 3 "~" H 7200 8550 50  0001 C CNN
-	1    7200 8550
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R R8
 U 1 1 5F38B593
 P 2450 4500
@@ -2532,10 +2266,10 @@ F 3 "~" H 2450 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R7
+L Device:R R11
 U 1 1 5F372009
 P 2200 4500
-F 0 "R7" H 2270 4546 50  0000 L CNN
+F 0 "R11" H 2270 4546 50  0000 L CNN
 F 1 "100kΩ" H 2270 4455 50  0000 L CNN
 F 2 "rs:R_0603_1608Metric" V 2130 4500 50  0001 C CNN
 F 3 "~" H 2200 4500 50  0001 C CNN
@@ -2543,10 +2277,10 @@ F 3 "~" H 2200 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R6
+L Device:R R7
 U 1 1 5F33DDFA
 P 1950 4500
-F 0 "R6" H 2020 4546 50  0000 L CNN
+F 0 "R7" H 2020 4546 50  0000 L CNN
 F 1 "100kΩ" H 2020 4455 50  0000 L CNN
 F 2 "rs:R_0603_1608Metric" V 1880 4500 50  0001 C CNN
 F 3 "~" H 1950 4500 50  0001 C CNN
@@ -2587,17 +2321,17 @@ U 1 1 5986A7F2
 P 1930 2105
 F 0 "U1" H 2330 3105 60  0000 C CNN
 F 1 "ProMicro" V 1730 2105 60  0000 C CNN
-F 2 "ec_helix:ProMicro" H 1930 2205 60  0001 C CNN
+F 2 "kbd:ProMicro_v3.5" H 1930 2205 60  0001 C CNN
 F 3 "" H 1930 2205 60  0000 C CNN
 	1    1930 2105
 	1    0    0    -1  
 $EndComp
 Text GLabel 980  1955 0    60   Input ~ 0
-col00
+col00_
 Wire Wire Line
 	1230 1955 980  1955
 Text GLabel 2880 2455 2    60   Input ~ 0
-adc
+adc_
 Wire Wire Line
 	2630 2455 2880 2455
 NoConn ~ 2630 2255
@@ -2671,28 +2405,6 @@ F 1 "AD8616" H 3058 7855 50  0001 L CNN
 F 2 "" H 3100 7900 50  0001 C CNN
 F 3 "" H 3100 7900 50  0001 C CNN
 	3    3100 7900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Transistor_BJT:2SC1945 Q2
-U 1 1 5ED13042
-P 5800 8400
-F 0 "Q2" H 5990 8446 50  0000 L CNN
-F 1 "2SC2712" H 5990 8355 50  0000 L CNN
-F 2 "ec_helix:2SC2712" H 6000 8325 50  0001 L CIN
-F 3 "https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf" H 5800 8400 50  0001 L CNN
-	1    5800 8400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Amplifier_Operational:LM2904 U37
-U 1 1 5ED12F94
-P 7700 7850
-F 0 "U37" H 7700 8217 50  0000 C CNN
-F 1 "AD8616" H 7700 8126 50  0000 C CNN
-F 2 "ec_helix:MSOP8" H 7700 7850 50  0001 C CNN
-F 3 "" H 7700 7850 50  0001 C CNN
-	1    7700 7850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3007,50 +2719,6 @@ Wire Wire Line
 	19850 2450 19850 3100
 Wire Wire Line
 	7600 2150 7680 2150
-$Comp
-L Device:R R28
-U 1 1 5EE90C15
-P 2750 6150
-F 0 "R28" H 2820 6196 50  0000 L CNN
-F 1 "100kΩ" H 2820 6105 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 2680 6150 50  0001 C CNN
-F 3 "~" H 2750 6150 50  0001 C CNN
-	1    2750 6150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R29
-U 1 1 5EE90C1B
-P 3000 6150
-F 0 "R29" H 3070 6196 50  0000 L CNN
-F 1 "100kΩ" H 3070 6105 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 2930 6150 50  0001 C CNN
-F 3 "~" H 3000 6150 50  0001 C CNN
-	1    3000 6150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R30
-U 1 1 5EE90C21
-P 3250 6150
-F 0 "R30" H 3320 6196 50  0000 L CNN
-F 1 "100kΩ" H 3320 6105 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 3180 6150 50  0001 C CNN
-F 3 "~" H 3250 6150 50  0001 C CNN
-	1    3250 6150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R31
-U 1 1 5EE90C27
-P 3500 6150
-F 0 "R31" H 3570 6196 50  0000 L CNN
-F 1 "100kΩ" H 3570 6105 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 3430 6150 50  0001 C CNN
-F 3 "~" H 3500 6150 50  0001 C CNN
-	1    3500 6150
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3500 6300 3250 6300
 Wire Wire Line
@@ -3071,39 +2739,6 @@ Connection ~ 2250 6300
 Wire Wire Line
 	1850 6300 2000 6300
 Connection ~ 2000 6300
-$Comp
-L Device:R R27
-U 1 1 5EE90C3A
-P 2500 6150
-F 0 "R27" H 2570 6196 50  0000 L CNN
-F 1 "100kΩ" H 2570 6105 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 2430 6150 50  0001 C CNN
-F 3 "~" H 2500 6150 50  0001 C CNN
-	1    2500 6150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R26
-U 1 1 5EE90C40
-P 2250 6150
-F 0 "R26" H 2320 6196 50  0000 L CNN
-F 1 "100kΩ" H 2320 6105 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 2180 6150 50  0001 C CNN
-F 3 "~" H 2250 6150 50  0001 C CNN
-	1    2250 6150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R25
-U 1 1 5EE90C46
-P 2000 6150
-F 0 "R25" H 2070 6196 50  0000 L CNN
-F 1 "100kΩ" H 2070 6105 50  0000 L CNN
-F 2 "rs:R_0603_1608Metric" V 1930 6150 50  0001 C CNN
-F 3 "~" H 2000 6150 50  0001 C CNN
-	1    2000 6150
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3500 6000 3500 5950
 Wire Wire Line
@@ -3143,4 +2778,1270 @@ Wire Wire Line
 Connection ~ 2000 5350
 Wire Wire Line
 	2000 5350 3700 5350
+$Comp
+L power:VCC #PWR03
+U 1 1 5F6AFFF9
+P 14220 5185
+F 0 "#PWR03" H 14220 5035 50  0001 C CNN
+F 1 "VCC" H 14220 5335 50  0000 C CNN
+F 2 "" H 14220 5185 50  0000 C CNN
+F 3 "" H 14220 5185 50  0000 C CNN
+	1    14220 5185
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	500  8450 650  8450
+Wire Wire Line
+	950  8450 1000 8450
+$Comp
+L Device:R R17
+U 1 1 5F9A5663
+P 800 8450
+F 0 "R17" H 870 8496 50  0000 L CNN
+F 1 "10kΩ" H 870 8405 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 730 8450 50  0001 C CNN
+F 3 "~" H 800 8450 50  0001 C CNN
+	1    800  8450
+	0    -1   -1   0   
+$EndComp
+Text GLabel 4000 7900 2    50   Input ~ 0
+adc
+Text GLabel 500  8450 0    60   Input ~ 0
+charge
+Text GLabel 1000 7800 0    50   Input ~ 0
+a
+Text GLabel 950  3900 0    50   Input ~ 0
+row0
+Text GLabel 950  4000 0    50   Input ~ 0
+row1
+Text GLabel 950  4100 0    50   Input ~ 0
+row2
+Text GLabel 950  3700 0    50   Input ~ 0
+a
+Text GLabel 3700 5350 2    50   Input ~ 0
+a5
+Text GLabel 3700 5450 2    50   Input ~ 0
+a1
+Text GLabel 3700 5550 2    50   Input ~ 0
+a6
+Text GLabel 3700 5650 2    50   Input ~ 0
+a2
+Text GLabel 3700 5750 2    50   Input ~ 0
+a0
+Text GLabel 3700 5850 2    50   Input ~ 0
+a4
+Text GLabel 3700 5950 2    50   Input ~ 0
+a3
+$Comp
+L Amplifier_Operational:LM2904 U37
+U 3 1 5ED12FA8
+P 3100 7900
+F 0 "U37" H 3058 7900 50  0001 L CNN
+F 1 "AD8616" H 3058 7855 50  0001 L CNN
+F 2 "" H 3100 7900 50  0001 C CNN
+F 3 "" H 3100 7900 50  0001 C CNN
+	3    3100 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM2904 U37
+U 1 1 5ED12F94
+P 3100 7900
+F 0 "U37" H 3100 8267 50  0000 C CNN
+F 1 "AD8616" H 3100 8176 50  0000 C CNN
+F 2 "ec_helix:MSOP8" H 3100 7900 50  0001 C CNN
+F 3 "" H 3100 7900 50  0001 C CNN
+	1    3100 7900
+	1    0    0    -1  
+$EndComp
+Connection ~ 2800 7800
+Connection ~ 2800 8000
+Connection ~ 3000 7600
+Connection ~ 3000 8200
+Connection ~ 3400 7900
+$Comp
+L Device:R R23
+U 1 1 5ED13034
+P 800 8450
+F 0 "R23" H 870 8496 50  0000 L CNN
+F 1 "10kΩ" H 870 8405 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 730 8450 50  0001 C CNN
+F 3 "~" H 800 8450 50  0001 C CNN
+	1    800  8450
+	0    -1   -1   0   
+$EndComp
+Connection ~ 650  8450
+Connection ~ 950  8450
+$Comp
+L Transistor_BJT:2SC1945 Q2
+U 1 1 5ED13042
+P 1200 8450
+F 0 "Q2" H 1390 8496 50  0000 L CNN
+F 1 "2SC2712" H 1390 8405 50  0000 L CNN
+F 2 "ec_helix:2SC2712" H 1400 8375 50  0001 L CIN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf" H 1200 8450 50  0001 L CNN
+	1    1200 8450
+	1    0    0    -1  
+$EndComp
+Connection ~ 1000 8450
+Connection ~ 1300 8250
+Connection ~ 1300 8650
+$Comp
+L Device:R R21
+U 1 1 5ED1301D
+P 1300 8000
+F 0 "R21" H 1370 8046 50  0000 L CNN
+F 1 "200Ω" H 1370 7955 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 1230 8000 50  0001 C CNN
+F 3 "~" H 1300 8000 50  0001 C CNN
+	1    1300 8000
+	1    0    0    -1  
+$EndComp
+Connection ~ 1300 7850
+Connection ~ 1300 8150
+$Comp
+L Device:R R20
+U 1 1 5ED13013
+P 2450 7800
+F 0 "R20" H 2520 7846 50  0000 L CNN
+F 1 "1kΩ" H 2520 7755 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 2380 7800 50  0001 C CNN
+F 3 "~" H 2450 7800 50  0001 C CNN
+	1    2450 7800
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2300 7800
+Connection ~ 2600 7800
+$Comp
+L Device:C C2
+U 1 1 5ED12FB2
+P 2000 8600
+F 0 "C2" H 2115 8646 50  0000 L CNN
+F 1 "220pF" H 2115 8555 50  0000 L CNN
+F 2 "cs:C_0603_1608Metric" H 2038 8450 50  0001 C CNN
+F 3 "~" H 2000 8600 50  0001 C CNN
+	1    2000 8600
+	1    0    0    -1  
+$EndComp
+Connection ~ 2000 8450
+Connection ~ 2000 8750
+$Comp
+L Device:R R24
+U 1 1 5ED12FFD
+P 2600 8600
+F 0 "R24" H 2670 8646 50  0000 L CNN
+F 1 "1kΩ" H 2670 8555 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 2530 8600 50  0001 C CNN
+F 3 "~" H 2600 8600 50  0001 C CNN
+	1    2600 8600
+	1    0    0    -1  
+$EndComp
+Connection ~ 2600 8450
+Connection ~ 2600 8750
+$Comp
+L Device:R R19
+U 1 1 5ED12FE0
+P 3350 7450
+F 0 "R19" H 3420 7496 50  0000 L CNN
+F 1 "10kΩ" H 3420 7405 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 3280 7450 50  0001 C CNN
+F 3 "~" H 3350 7450 50  0001 C CNN
+	1    3350 7450
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3200 7450
+Connection ~ 3500 7450
+$Comp
+L Device:R R22
+U 1 1 5ED12FF3
+P 3350 8350
+F 0 "R22" H 3420 8396 50  0000 L CNN
+F 1 "51-100kΩ" H 3420 8305 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 3280 8350 50  0001 C CNN
+F 3 "~" H 3350 8350 50  0001 C CNN
+	1    3350 8350
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3200 8350
+Connection ~ 3500 8350
+$Comp
+L Device:R R30
+U 1 1 5EE90C1B
+P 3000 6150
+F 0 "R30" H 3070 6196 50  0000 L CNN
+F 1 "100kΩ" H 3070 6105 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 2930 6150 50  0001 C CNN
+F 3 "~" H 3000 6150 50  0001 C CNN
+	1    3000 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R31
+U 1 1 5EE90C27
+P 3500 6150
+F 0 "R31" H 3570 6196 50  0000 L CNN
+F 1 "100kΩ" H 3570 6105 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 3430 6150 50  0001 C CNN
+F 3 "~" H 3500 6150 50  0001 C CNN
+	1    3500 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R29
+U 1 1 5EE90C21
+P 3250 6150
+F 0 "R29" H 3320 6196 50  0000 L CNN
+F 1 "100kΩ" H 3320 6105 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 3180 6150 50  0001 C CNN
+F 3 "~" H 3250 6150 50  0001 C CNN
+	1    3250 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R26
+U 1 1 5EE90C15
+P 2750 6150
+F 0 "R26" H 2820 6196 50  0000 L CNN
+F 1 "100kΩ" H 2820 6105 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 2680 6150 50  0001 C CNN
+F 3 "~" H 2750 6150 50  0001 C CNN
+	1    2750 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R25
+U 1 1 5EE90C46
+P 2000 6150
+F 0 "R25" H 2070 6196 50  0000 L CNN
+F 1 "100kΩ" H 2070 6105 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 1930 6150 50  0001 C CNN
+F 3 "~" H 2000 6150 50  0001 C CNN
+	1    2000 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R27
+U 1 1 5EE90C40
+P 2250 6150
+F 0 "R27" H 2320 6196 50  0000 L CNN
+F 1 "100kΩ" H 2320 6105 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 2180 6150 50  0001 C CNN
+F 3 "~" H 2250 6150 50  0001 C CNN
+	1    2250 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R28
+U 1 1 5EE90C3A
+P 2500 6150
+F 0 "R28" H 2570 6196 50  0000 L CNN
+F 1 "100kΩ" H 2570 6105 50  0000 L CNN
+F 2 "rs:R_0603_1608Metric" V 2430 6150 50  0001 C CNN
+F 3 "~" H 2500 6150 50  0001 C CNN
+	1    2500 6150
+	1    0    0    -1  
+$EndComp
+Text GLabel 7795 5300 0    60   Input ~ 0
+row0_
+$Comp
+L Mechanical:MountingHole_Pad JP22
+U 1 1 5F151E7A
+P 7895 5300
+F 0 "JP22" V 7849 5450 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7940 5450 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7895 5300 50  0001 C CNN
+F 3 "~" H 7895 5300 50  0001 C CNN
+	1    7895 5300
+	0    1    1    0   
+$EndComp
+Text GLabel 7785 5665 0    60   Input ~ 0
+row2_
+$Comp
+L Mechanical:MountingHole_Pad JP35
+U 1 1 5F2E0389
+P 7885 5665
+F 0 "JP35" V 7839 5815 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7930 5815 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7885 5665 50  0001 C CNN
+F 3 "~" H 7885 5665 50  0001 C CNN
+	1    7885 5665
+	0    1    1    0   
+$EndComp
+Text GLabel 7785 6050 0    60   Input ~ 0
+row1
+$Comp
+L Mechanical:MountingHole_Pad JP37
+U 1 1 5F344B34
+P 7885 6050
+F 0 "JP37" V 7839 6200 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7930 6200 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7885 6050 50  0001 C CNN
+F 3 "~" H 7885 6050 50  0001 C CNN
+	1    7885 6050
+	0    1    1    0   
+$EndComp
+Text GLabel 7790 5875 0    60   Input ~ 0
+row0
+$Comp
+L Mechanical:MountingHole_Pad JP36
+U 1 1 5F344B3F
+P 7890 5875
+F 0 "JP36" V 7844 6025 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7935 6025 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7890 5875 50  0001 C CNN
+F 3 "~" H 7890 5875 50  0001 C CNN
+	1    7890 5875
+	0    1    1    0   
+$EndComp
+Text GLabel 7780 6240 0    60   Input ~ 0
+row2
+$Comp
+L Mechanical:MountingHole_Pad JP38
+U 1 1 5F344B4A
+P 7880 6240
+F 0 "JP38" V 7834 6390 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7925 6390 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7880 6240 50  0001 C CNN
+F 3 "~" H 7880 6240 50  0001 C CNN
+	1    7880 6240
+	0    1    1    0   
+$EndComp
+Text GLabel 7785 6560 0    60   Input ~ 0
+charge_
+$Comp
+L Mechanical:MountingHole_Pad JP39
+U 1 1 5F3ABE81
+P 7885 6560
+F 0 "JP39" V 7839 6710 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7930 6710 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7885 6560 50  0001 C CNN
+F 3 "~" H 7885 6560 50  0001 C CNN
+	1    7885 6560
+	0    1    1    0   
+$EndComp
+Text GLabel 7780 6750 0    60   Input ~ 0
+adc_
+$Comp
+L Mechanical:MountingHole_Pad JP40
+U 1 1 5F3ABE8C
+P 7880 6750
+F 0 "JP40" V 7834 6900 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7925 6900 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7880 6750 50  0001 C CNN
+F 3 "~" H 7880 6750 50  0001 C CNN
+	1    7880 6750
+	0    1    1    0   
+$EndComp
+Text GLabel 7775 6955 0    60   Input ~ 0
+charge
+$Comp
+L Mechanical:MountingHole_Pad JP41
+U 1 1 5F4104D8
+P 7875 6955
+F 0 "JP41" V 7829 7105 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7920 7105 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7875 6955 50  0001 C CNN
+F 3 "~" H 7875 6955 50  0001 C CNN
+	1    7875 6955
+	0    1    1    0   
+$EndComp
+Text GLabel 7770 7145 0    60   Input ~ 0
+adc
+$Comp
+L Mechanical:MountingHole_Pad JP42
+U 1 1 5F4104E3
+P 7870 7145
+F 0 "JP42" V 7824 7295 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7915 7295 50  0000 L CNN
+F 2 "phi-kbd-library-master:THSmallest" H 7870 7145 50  0001 C CNN
+F 3 "~" H 7870 7145 50  0001 C CNN
+	1    7870 7145
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SK6812MINI L4
+U 1 1 5F5A8F59
+P 12835 5510
+F 0 "L4" V 12854 5332 51  0000 R CNN
+F 1 "SK6812MINI" V 12789 5332 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12835 5510 60  0001 C CNN
+F 3 "" H 12835 5510 60  0001 C CNN
+	1    12835 5510
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L3
+U 1 1 5F5D3112
+P 12285 5510
+F 0 "L3" V 12304 5332 51  0000 R CNN
+F 1 "SK6812MINI" V 12239 5332 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12285 5510 60  0001 C CNN
+F 3 "" H 12285 5510 60  0001 C CNN
+	1    12285 5510
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L2
+U 1 1 5F5FD28F
+P 11735 5510
+F 0 "L2" V 11754 5332 51  0000 R CNN
+F 1 "SK6812MINI" V 11689 5332 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11735 5510 60  0001 C CNN
+F 3 "" H 11735 5510 60  0001 C CNN
+	1    11735 5510
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L1
+U 1 1 5F62735D
+P 11185 5510
+F 0 "L1" V 11204 5332 51  0000 R CNN
+F 1 "SK6812MINI" V 11139 5332 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11185 5510 60  0001 C CNN
+F 3 "" H 11185 5510 60  0001 C CNN
+	1    11185 5510
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L7
+U 1 1 5F6A3527
+P 11165 6240
+F 0 "L7" V 11184 6062 51  0000 R CNN
+F 1 "SK6812MINI" V 11119 6062 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11165 6240 60  0001 C CNN
+F 3 "" H 11165 6240 60  0001 C CNN
+	1    11165 6240
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L8
+U 1 1 5F6A3531
+P 11715 6240
+F 0 "L8" V 11734 6062 51  0000 R CNN
+F 1 "SK6812MINI" V 11669 6062 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11715 6240 60  0001 C CNN
+F 3 "" H 11715 6240 60  0001 C CNN
+	1    11715 6240
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L9
+U 1 1 5F6A353B
+P 12265 6240
+F 0 "L9" V 12284 6062 51  0000 R CNN
+F 1 "SK6812MINI" V 12219 6062 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12265 6240 60  0001 C CNN
+F 3 "" H 12265 6240 60  0001 C CNN
+	1    12265 6240
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L10
+U 1 1 5F6A3545
+P 12815 6240
+F 0 "L10" V 12834 6062 51  0000 R CNN
+F 1 "SK6812MINI" V 12769 6062 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12815 6240 60  0001 C CNN
+F 3 "" H 12815 6240 60  0001 C CNN
+	1    12815 6240
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L11
+U 1 1 5F6A354F
+P 13365 6240
+F 0 "L11" V 13384 6062 51  0000 R CNN
+F 1 "SK6812MINI" V 13319 6062 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13365 6240 60  0001 C CNN
+F 3 "" H 13365 6240 60  0001 C CNN
+	1    13365 6240
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L12
+U 1 1 5F6A3559
+P 13915 6240
+F 0 "L12" V 13934 6062 51  0000 R CNN
+F 1 "SK6812MINI" V 13869 6062 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13915 6240 60  0001 C CNN
+F 3 "" H 13915 6240 60  0001 C CNN
+	1    13915 6240
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L18
+U 1 1 5F6CECA7
+P 13935 6860
+F 0 "L18" V 13954 6682 51  0000 R CNN
+F 1 "SK6812MINI" V 13889 6682 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13935 6860 60  0001 C CNN
+F 3 "" H 13935 6860 60  0001 C CNN
+	1    13935 6860
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L17
+U 1 1 5F6CECB1
+P 13385 6860
+F 0 "L17" V 13404 6682 51  0000 R CNN
+F 1 "SK6812MINI" V 13339 6682 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13385 6860 60  0001 C CNN
+F 3 "" H 13385 6860 60  0001 C CNN
+	1    13385 6860
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L16
+U 1 1 5F6CECBB
+P 12835 6860
+F 0 "L16" V 12854 6682 51  0000 R CNN
+F 1 "SK6812MINI" V 12789 6682 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12835 6860 60  0001 C CNN
+F 3 "" H 12835 6860 60  0001 C CNN
+	1    12835 6860
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L15
+U 1 1 5F6CECC5
+P 12285 6860
+F 0 "L15" V 12304 6682 51  0000 R CNN
+F 1 "SK6812MINI" V 12239 6682 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12285 6860 60  0001 C CNN
+F 3 "" H 12285 6860 60  0001 C CNN
+	1    12285 6860
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L14
+U 1 1 5F6CECCF
+P 11735 6860
+F 0 "L14" V 11754 6682 51  0000 R CNN
+F 1 "SK6812MINI" V 11689 6682 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11735 6860 60  0001 C CNN
+F 3 "" H 11735 6860 60  0001 C CNN
+	1    11735 6860
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L13
+U 1 1 5F6CECD9
+P 11185 6860
+F 0 "L13" V 11204 6682 51  0000 R CNN
+F 1 "SK6812MINI" V 11139 6682 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11185 6860 60  0001 C CNN
+F 3 "" H 11185 6860 60  0001 C CNN
+	1    11185 6860
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L24
+U 1 1 5F6FADD7
+P 13915 7590
+F 0 "L24" V 13934 7412 51  0000 R CNN
+F 1 "SK6812MINI" V 13869 7412 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13915 7590 60  0001 C CNN
+F 3 "" H 13915 7590 60  0001 C CNN
+	1    13915 7590
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L23
+U 1 1 5F6FADCD
+P 13365 7590
+F 0 "L23" V 13384 7412 51  0000 R CNN
+F 1 "SK6812MINI" V 13319 7412 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13365 7590 60  0001 C CNN
+F 3 "" H 13365 7590 60  0001 C CNN
+	1    13365 7590
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L22
+U 1 1 5F6FADC3
+P 12815 7590
+F 0 "L22" V 12834 7412 51  0000 R CNN
+F 1 "SK6812MINI" V 12769 7412 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12815 7590 60  0001 C CNN
+F 3 "" H 12815 7590 60  0001 C CNN
+	1    12815 7590
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L21
+U 1 1 5F6FADB9
+P 12265 7590
+F 0 "L21" V 12284 7412 51  0000 R CNN
+F 1 "SK6812MINI" V 12219 7412 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12265 7590 60  0001 C CNN
+F 3 "" H 12265 7590 60  0001 C CNN
+	1    12265 7590
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L20
+U 1 1 5F6FADAF
+P 11715 7590
+F 0 "L20" V 11734 7412 51  0000 R CNN
+F 1 "SK6812MINI" V 11669 7412 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11715 7590 60  0001 C CNN
+F 3 "" H 11715 7590 60  0001 C CNN
+	1    11715 7590
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L19
+U 1 1 5F6FADA5
+P 11165 7590
+F 0 "L19" V 11184 7412 51  0000 R CNN
+F 1 "SK6812MINI" V 11119 7412 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11165 7590 60  0001 C CNN
+F 3 "" H 11165 7590 60  0001 C CNN
+	1    11165 7590
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L26
+U 1 1 5F7526FF
+P 11185 8160
+F 0 "L26" V 11204 7982 51  0000 R CNN
+F 1 "SK6812MINI" V 11139 7982 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11185 8160 60  0001 C CNN
+F 3 "" H 11185 8160 60  0001 C CNN
+	1    11185 8160
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L27
+U 1 1 5F752709
+P 11735 8160
+F 0 "L27" V 11754 7982 51  0000 R CNN
+F 1 "SK6812MINI" V 11689 7982 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 11735 8160 60  0001 C CNN
+F 3 "" H 11735 8160 60  0001 C CNN
+	1    11735 8160
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L28
+U 1 1 5F752713
+P 12285 8160
+F 0 "L28" V 12304 7982 51  0000 R CNN
+F 1 "SK6812MINI" V 12239 7982 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12285 8160 60  0001 C CNN
+F 3 "" H 12285 8160 60  0001 C CNN
+	1    12285 8160
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L29
+U 1 1 5F75271D
+P 12835 8160
+F 0 "L29" V 12854 7982 51  0000 R CNN
+F 1 "SK6812MINI" V 12789 7982 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 12835 8160 60  0001 C CNN
+F 3 "" H 12835 8160 60  0001 C CNN
+	1    12835 8160
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L30
+U 1 1 5F752727
+P 13385 8160
+F 0 "L30" V 13404 7982 51  0000 R CNN
+F 1 "SK6812MINI" V 13339 7982 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13385 8160 60  0001 C CNN
+F 3 "" H 13385 8160 60  0001 C CNN
+	1    13385 8160
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L31
+U 1 1 5F752731
+P 13935 8160
+F 0 "L31" V 13954 7982 51  0000 R CNN
+F 1 "SK6812MINI" V 13889 7982 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13935 8160 60  0001 C CNN
+F 3 "" H 13935 8160 60  0001 C CNN
+	1    13935 8160
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SK6812MINI L25
+U 1 1 5F804234
+P 14515 7590
+F 0 "L25" V 14534 7412 51  0000 R CNN
+F 1 "SK6812MINI" V 14469 7412 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 14515 7590 60  0001 C CNN
+F 3 "" H 14515 7590 60  0001 C CNN
+	1    14515 7590
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SK6812MINI L32
+U 1 1 5F80423E
+P 14535 8160
+F 0 "L32" V 14554 7982 51  0000 R CNN
+F 1 "SK6812MINI" V 14489 7982 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 14535 8160 60  0001 C CNN
+F 3 "" H 14535 8160 60  0001 C CNN
+	1    14535 8160
+	1    0    0    -1  
+$EndComp
+Text GLabel 14215 5610 2    60   Input ~ 0
+LED
+$Comp
+L kbd:SK6812MINI L6
+U 1 1 5F0AC277
+P 13935 5510
+F 0 "L6" V 13954 5332 51  0000 R CNN
+F 1 "SK6812MINI" V 13889 5332 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13935 5510 60  0001 C CNN
+F 3 "" H 13935 5510 60  0001 C CNN
+	1    13935 5510
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14215 5610 14135 5610
+$Comp
+L kbd:SK6812MINI L5
+U 1 1 5F57EBFC
+P 13385 5510
+F 0 "L5" V 13404 5332 51  0000 R CNN
+F 1 "SK6812MINI" V 13339 5332 16  0000 R CNN
+F 2 "ec_helix:SK6812MINI_narrow-irreversible2" H 13385 5510 60  0001 C CNN
+F 3 "" H 13385 5510 60  0001 C CNN
+	1    13385 5510
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13735 5410 13675 5410
+Wire Wire Line
+	13675 5410 13675 5610
+Wire Wire Line
+	13675 5610 13585 5610
+Wire Wire Line
+	13185 5410 13115 5410
+Wire Wire Line
+	13115 5410 13115 5610
+Wire Wire Line
+	13115 5610 13035 5610
+Wire Wire Line
+	12635 5410 12565 5410
+Wire Wire Line
+	12565 5410 12565 5610
+Wire Wire Line
+	12565 5610 12485 5610
+Wire Wire Line
+	12085 5410 12015 5410
+Wire Wire Line
+	12015 5410 12015 5610
+Wire Wire Line
+	12015 5610 11935 5610
+Wire Wire Line
+	11535 5410 11465 5410
+Wire Wire Line
+	11465 5410 11465 5610
+Wire Wire Line
+	11465 5610 11385 5610
+Wire Wire Line
+	11385 5410 11385 5240
+Wire Wire Line
+	11385 5240 11935 5240
+Wire Wire Line
+	14220 5240 14220 5185
+Wire Wire Line
+	13735 5610 13735 5740
+Wire Wire Line
+	10985 5740 10985 5610
+Wire Wire Line
+	14135 5410 14135 5240
+Connection ~ 14135 5240
+Wire Wire Line
+	14135 5240 14220 5240
+Wire Wire Line
+	13585 5410 13585 5240
+Connection ~ 13585 5240
+Wire Wire Line
+	13585 5240 14135 5240
+Wire Wire Line
+	13035 5410 13035 5240
+Connection ~ 13035 5240
+Wire Wire Line
+	13035 5240 13585 5240
+Wire Wire Line
+	12485 5410 12485 5240
+Connection ~ 12485 5240
+Wire Wire Line
+	12485 5240 13035 5240
+Wire Wire Line
+	11935 5410 11935 5240
+Connection ~ 11935 5240
+Wire Wire Line
+	11935 5240 12485 5240
+Wire Wire Line
+	10985 5410 10905 5410
+Wire Wire Line
+	10905 5410 10905 6140
+Wire Wire Line
+	10905 6140 10965 6140
+Wire Wire Line
+	11365 6340 11445 6340
+Wire Wire Line
+	11445 6340 11445 6140
+Wire Wire Line
+	11445 6140 11515 6140
+Wire Wire Line
+	11915 6340 11995 6340
+Wire Wire Line
+	11995 6340 11995 6140
+Wire Wire Line
+	11995 6140 12065 6140
+Wire Wire Line
+	12465 6340 12540 6340
+Wire Wire Line
+	12540 6340 12540 6140
+Wire Wire Line
+	12540 6140 12615 6140
+Wire Wire Line
+	13015 6340 13095 6340
+Wire Wire Line
+	13095 6340 13095 6140
+Wire Wire Line
+	13095 6140 13165 6140
+Wire Wire Line
+	13565 6340 13645 6340
+Wire Wire Line
+	13645 6340 13645 6140
+Wire Wire Line
+	13645 6140 13715 6140
+Wire Wire Line
+	11365 6140 11365 5740
+Connection ~ 11365 5740
+Wire Wire Line
+	11365 5740 10985 5740
+Wire Wire Line
+	11915 6140 11915 5740
+Connection ~ 11915 5740
+Wire Wire Line
+	11915 5740 11535 5740
+Wire Wire Line
+	12465 6140 12465 5740
+Connection ~ 12465 5740
+Wire Wire Line
+	12465 5740 12085 5740
+Wire Wire Line
+	13015 6140 13015 5740
+Connection ~ 13015 5740
+Wire Wire Line
+	13565 6140 13565 5740
+Connection ~ 13565 5740
+Wire Wire Line
+	13565 5740 13185 5740
+Wire Wire Line
+	14115 6140 14115 5740
+Wire Wire Line
+	13565 5740 13735 5740
+Connection ~ 13735 5740
+Wire Wire Line
+	13735 5740 14115 5740
+Wire Wire Line
+	10965 6340 10965 6530
+Wire Wire Line
+	10965 6530 11385 6530
+Wire Wire Line
+	14135 6530 14135 6760
+Wire Wire Line
+	13735 6760 13665 6760
+Wire Wire Line
+	13665 6760 13665 6960
+Wire Wire Line
+	13665 6960 13585 6960
+Wire Wire Line
+	11385 6760 11385 6530
+Connection ~ 11385 6530
+Wire Wire Line
+	11385 6530 11515 6530
+Wire Wire Line
+	11935 6760 11935 6530
+Connection ~ 11935 6530
+Wire Wire Line
+	11935 6530 12065 6530
+Wire Wire Line
+	12485 6760 12485 6530
+Connection ~ 12485 6530
+Wire Wire Line
+	12485 6530 12615 6530
+Wire Wire Line
+	13035 6760 13035 6530
+Connection ~ 13035 6530
+Wire Wire Line
+	13035 6530 13165 6530
+Wire Wire Line
+	13585 6760 13585 6530
+Connection ~ 13585 6530
+Wire Wire Line
+	13585 6530 13715 6530
+Wire Wire Line
+	11535 5610 11535 5740
+Connection ~ 11535 5740
+Wire Wire Line
+	11535 5740 11365 5740
+Wire Wire Line
+	12085 5610 12085 5740
+Connection ~ 12085 5740
+Wire Wire Line
+	12085 5740 11915 5740
+Wire Wire Line
+	12635 5610 12635 5740
+Wire Wire Line
+	12465 5740 12635 5740
+Connection ~ 12635 5740
+Wire Wire Line
+	12635 5740 13015 5740
+Wire Wire Line
+	13185 5610 13185 5740
+Connection ~ 13185 5740
+Wire Wire Line
+	13185 5740 13015 5740
+Wire Wire Line
+	11515 6340 11515 6530
+Connection ~ 11515 6530
+Wire Wire Line
+	11515 6530 11935 6530
+Wire Wire Line
+	12065 6340 12065 6530
+Connection ~ 12065 6530
+Wire Wire Line
+	12065 6530 12485 6530
+Wire Wire Line
+	12615 6340 12615 6530
+Connection ~ 12615 6530
+Wire Wire Line
+	12615 6530 13035 6530
+Wire Wire Line
+	13165 6340 13165 6530
+Connection ~ 13165 6530
+Wire Wire Line
+	13165 6530 13585 6530
+Wire Wire Line
+	13715 6340 13715 6530
+Connection ~ 13715 6530
+Wire Wire Line
+	13715 6530 14135 6530
+Wire Wire Line
+	14115 6340 14180 6340
+Wire Wire Line
+	14180 6340 14180 6960
+Wire Wire Line
+	14180 6960 14135 6960
+Wire Wire Line
+	13185 6760 13115 6760
+Wire Wire Line
+	13115 6760 13115 6960
+Wire Wire Line
+	13115 6960 13035 6960
+Wire Wire Line
+	12635 6760 12560 6760
+Wire Wire Line
+	12560 6760 12560 6960
+Wire Wire Line
+	12560 6960 12485 6960
+Wire Wire Line
+	12085 6760 12010 6760
+Wire Wire Line
+	12010 6760 12010 6960
+Wire Wire Line
+	12010 6960 11935 6960
+Wire Wire Line
+	11535 6760 11460 6760
+Wire Wire Line
+	11460 6760 11460 6960
+Wire Wire Line
+	11460 6960 11385 6960
+Wire Wire Line
+	11385 5240 10765 5240
+Wire Wire Line
+	10765 5240 10765 6530
+Wire Wire Line
+	10765 6530 10965 6530
+Connection ~ 11385 5240
+Connection ~ 10965 6530
+Wire Wire Line
+	10985 6960 10985 7205
+Wire Wire Line
+	10985 7205 11365 7205
+Wire Wire Line
+	13735 7205 13735 6960
+Wire Wire Line
+	10985 6760 10890 6760
+Wire Wire Line
+	10890 6760 10890 7490
+Wire Wire Line
+	10890 7490 10965 7490
+Wire Wire Line
+	11535 6960 11535 7205
+Connection ~ 11535 7205
+Wire Wire Line
+	11535 7205 11915 7205
+Wire Wire Line
+	12085 6960 12085 7205
+Connection ~ 12085 7205
+Wire Wire Line
+	12085 7205 12465 7205
+Wire Wire Line
+	12635 6960 12635 7205
+Connection ~ 12635 7205
+Wire Wire Line
+	12635 7205 13015 7205
+Wire Wire Line
+	13185 6960 13185 7205
+Connection ~ 13185 7205
+Wire Wire Line
+	13185 7205 13565 7205
+Wire Wire Line
+	13735 7205 14115 7205
+Wire Wire Line
+	14715 7205 14715 7490
+Connection ~ 13735 7205
+Wire Wire Line
+	11365 7690 11445 7690
+Wire Wire Line
+	11445 7690 11445 7490
+Wire Wire Line
+	11445 7490 11515 7490
+Wire Wire Line
+	11915 7690 11995 7690
+Wire Wire Line
+	11995 7690 11995 7490
+Wire Wire Line
+	11995 7490 12065 7490
+Wire Wire Line
+	12465 7690 12545 7690
+Wire Wire Line
+	12545 7690 12545 7490
+Wire Wire Line
+	12545 7490 12615 7490
+Wire Wire Line
+	13015 7690 13095 7690
+Wire Wire Line
+	13095 7690 13095 7490
+Wire Wire Line
+	13095 7490 13165 7490
+Wire Wire Line
+	13565 7690 13645 7690
+Wire Wire Line
+	13645 7690 13645 7490
+Wire Wire Line
+	13645 7490 13715 7490
+Wire Wire Line
+	14115 7690 14215 7690
+Wire Wire Line
+	14215 7690 14215 7490
+Wire Wire Line
+	14215 7490 14315 7490
+Wire Wire Line
+	11365 7490 11365 7205
+Connection ~ 11365 7205
+Wire Wire Line
+	11365 7205 11535 7205
+Wire Wire Line
+	11915 7490 11915 7205
+Connection ~ 11915 7205
+Wire Wire Line
+	11915 7205 12085 7205
+Wire Wire Line
+	12465 7490 12465 7205
+Connection ~ 12465 7205
+Wire Wire Line
+	12465 7205 12635 7205
+Wire Wire Line
+	13015 7490 13015 7205
+Connection ~ 13015 7205
+Wire Wire Line
+	13015 7205 13185 7205
+Wire Wire Line
+	13565 7490 13565 7205
+Connection ~ 13565 7205
+Wire Wire Line
+	13565 7205 13735 7205
+Wire Wire Line
+	14115 7490 14115 7205
+Connection ~ 14115 7205
+Wire Wire Line
+	14115 7205 14320 7205
+Wire Wire Line
+	10765 6530 10765 7840
+Wire Wire Line
+	14315 7840 14315 7690
+Connection ~ 10765 6530
+Wire Wire Line
+	14315 7840 14735 7840
+Wire Wire Line
+	14735 7840 14735 8060
+Connection ~ 14315 7840
+Wire Wire Line
+	14115 5740 14320 5740
+Wire Wire Line
+	14320 5740 14320 7205
+Connection ~ 14115 5740
+Connection ~ 14320 7205
+Wire Wire Line
+	14320 7205 14715 7205
+Wire Wire Line
+	14715 7690 14795 7690
+Wire Wire Line
+	14795 7690 14795 8260
+Wire Wire Line
+	14795 8260 14735 8260
+Wire Wire Line
+	14715 7205 14925 7205
+Wire Wire Line
+	14925 7205 14925 8495
+Wire Wire Line
+	14925 8495 14335 8495
+Wire Wire Line
+	10985 8495 10985 8260
+Connection ~ 14715 7205
+Wire Wire Line
+	11535 8260 11535 8495
+Connection ~ 11535 8495
+Wire Wire Line
+	11535 8495 10985 8495
+Wire Wire Line
+	12085 8260 12085 8495
+Connection ~ 12085 8495
+Wire Wire Line
+	12085 8495 11535 8495
+Wire Wire Line
+	12635 8260 12635 8495
+Connection ~ 12635 8495
+Wire Wire Line
+	12635 8495 12085 8495
+Wire Wire Line
+	13185 8260 13185 8495
+Connection ~ 13185 8495
+Wire Wire Line
+	13185 8495 12635 8495
+Wire Wire Line
+	13735 8260 13735 8495
+Connection ~ 13735 8495
+Wire Wire Line
+	13735 8495 13185 8495
+Wire Wire Line
+	14335 8260 14335 8495
+Connection ~ 14335 8495
+Wire Wire Line
+	14335 8495 13735 8495
+Wire Wire Line
+	13715 7690 13715 7840
+Connection ~ 13715 7840
+Wire Wire Line
+	13715 7840 14135 7840
+Wire Wire Line
+	13165 7690 13165 7840
+Connection ~ 13165 7840
+Wire Wire Line
+	13165 7840 13585 7840
+Wire Wire Line
+	12615 7690 12615 7840
+Connection ~ 12615 7840
+Wire Wire Line
+	12615 7840 13035 7840
+Wire Wire Line
+	12065 7690 12065 7840
+Wire Wire Line
+	10765 7840 10965 7840
+Connection ~ 12065 7840
+Wire Wire Line
+	12065 7840 12485 7840
+Wire Wire Line
+	11515 7690 11515 7840
+Connection ~ 11515 7840
+Wire Wire Line
+	11515 7840 11935 7840
+Wire Wire Line
+	10965 7690 10965 7840
+Connection ~ 10965 7840
+Wire Wire Line
+	10965 7840 11385 7840
+Wire Wire Line
+	11385 8060 11385 7840
+Connection ~ 11385 7840
+Wire Wire Line
+	11385 7840 11515 7840
+Wire Wire Line
+	11935 8060 11935 7840
+Connection ~ 11935 7840
+Wire Wire Line
+	11935 7840 12065 7840
+Wire Wire Line
+	12485 8060 12485 7840
+Connection ~ 12485 7840
+Wire Wire Line
+	12485 7840 12615 7840
+Wire Wire Line
+	13035 8060 13035 7840
+Connection ~ 13035 7840
+Wire Wire Line
+	13035 7840 13165 7840
+Wire Wire Line
+	13585 8060 13585 7840
+Connection ~ 13585 7840
+Wire Wire Line
+	13585 7840 13715 7840
+Wire Wire Line
+	14135 8060 14135 7840
+Connection ~ 14135 7840
+Wire Wire Line
+	14135 7840 14315 7840
+Wire Wire Line
+	14335 8060 14235 8060
+Wire Wire Line
+	14235 8060 14235 8260
+Wire Wire Line
+	14235 8260 14135 8260
+Wire Wire Line
+	13735 8060 13660 8060
+Wire Wire Line
+	13660 8060 13660 8260
+Wire Wire Line
+	13660 8260 13585 8260
+Wire Wire Line
+	13185 8060 13105 8060
+Wire Wire Line
+	13105 8060 13105 8260
+Wire Wire Line
+	13105 8260 13035 8260
+Wire Wire Line
+	12635 8060 12560 8060
+Wire Wire Line
+	12560 8060 12560 8260
+Wire Wire Line
+	12560 8260 12485 8260
+Wire Wire Line
+	12085 8060 12010 8060
+Wire Wire Line
+	12010 8060 12010 8260
+Wire Wire Line
+	12010 8260 11935 8260
+Wire Wire Line
+	11535 8060 11460 8060
+Wire Wire Line
+	11460 8060 11460 8260
+Wire Wire Line
+	11460 8260 11385 8260
+NoConn ~ 10985 8060
+$Comp
+L power:GND #PWR09
+U 1 1 607FF884
+P 10985 8495
+F 0 "#PWR09" H 10985 8245 50  0001 C CNN
+F 1 "GND" H 10985 8345 50  0000 C CNN
+F 2 "" H 10985 8495 50  0000 C CNN
+F 3 "" H 10985 8495 50  0000 C CNN
+	1    10985 8495
+	1    0    0    -1  
+$EndComp
+Connection ~ 10985 8495
 $EndSCHEMATC
