@@ -26,6 +26,9 @@ cs　https://github.com/KiCad/kicad-footprints/tree/master/Capacitor_SMD.pretty
 本家Helixとの共通部分については省略しています。  
 Varmilo版とラバードームで共通箇所が多いため、まとめて記載しています。
 
+こちらのビルドログも参考になるので、目を通しておくと良いかもしれません
+https://orumin.blogspot.com/2020/10/helix-ec-helix-niz-ver.html
+
 ## 注意
 本キットは組み立て難易度が高く、使うパーツも特殊です。  
 自作キーボード初心者の方にはおすすめしません。  
