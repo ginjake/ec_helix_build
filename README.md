@@ -39,7 +39,7 @@ https://orumin.blogspot.com/2020/10/helix-ec-helix-niz-ver.html
 Varmilo社が出しているスイッチで、静電容量メカニカルとも呼ばれています。  
 単体では販売されていないので、既製品を分解して入手する必要があります。  
 ふもっふのお店のカスタムキーボードサービスで
-デイジー軸 桜軸 ローズ軸などを選択して発注するのが一番手軽です。。
+デイジー軸 桜軸 ローズ軸などを選択して発注するのが一番手軽です。
 https://jp.varmilo.com/keyboardproscenium/
 
 
